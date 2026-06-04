@@ -33,14 +33,15 @@ Requiere esfuerzo cognitivo real.
 > Cuanto más activo eres al aprender (explicar, hacer, crear), mayor es la retención.
 
 **La Pirámide del Aprendizaje:**
-| Método | Retención promedio |
-|---|---|
-| Leer | 10% |
-| Escuchar | 20% |
-| Ver imágenes | 30% |
-| Ver + escuchar | 50% |
-| Discutir con otros | 70% |
-| **Enseñar a otros** | **90%** |
+
+| Método              | Retención promedio |     |
+| ------------------- | ------------------ | --- |
+| Leer                | 10%                |     |
+| Escuchar            | 20%                |     |
+| Ver imágenes        | 30%                |     |
+| Ver + escuchar      | 50%                |     |
+| Discutir con otros  | 70%                |     |
+| **Enseñar a otros** | **90%**            |     |
 
 ---
 

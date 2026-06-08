@@ -15,13 +15,13 @@ tags:
 
 ---
 
-## 🚧 Los 5 Obstáculos que Bloquean la Riqueza
+##  Los 5 Obstáculos que Bloquean la Riqueza
 
 Kiyosaki identifica que el conocimiento financiero no es suficiente. Hay 5 barreras psicológicas que impiden que incluso personas con buena educación financiera construyan riqueza.
 
 ---
 
-### 1. 😨 El Miedo
+### 1.  El Miedo
 
 El miedo a perder dinero es universal. Nadie lo elimina completamente — la diferencia es cómo se gestiona.
 
@@ -38,7 +38,7 @@ No aguantes una posición perdedora esperando que mejore. Toma la pérdida, apre
 
 ---
 
-### 2. 🙄 El Cinismo
+### 2.  El Cinismo
 
 *"La economía va a colapsar"*, *"Las acciones son una estafa"*, *"Los bienes raíces están en burbuja"*, *"Es muy tarde para entrar"*.
 
@@ -60,7 +60,7 @@ Ve oportunidad
 
 ---
 
-### 3. 🦥 La Pereza
+### 3.  La Pereza
 
 Ya mencionada en el Cap 05, aquí Kiyosaki la desarrolla:
 
@@ -77,7 +77,7 @@ La pregunta activa el cerebro. La afirmación lo apaga.
 
 ---
 
-### 4. 😈 Los Malos Hábitos
+### 4.  Los Malos Hábitos
 
 Los hábitos determinan el futuro financiero más que las decisiones conscientes. Kiyosaki da un ejemplo personal:
 
@@ -101,7 +101,7 @@ Ingreso llega
 
 ---
 
-### 5. 😤 La Arrogancia
+### 5.  La Arrogancia
 
 La arrogancia es ignorancia más ego. Kiyosaki la define como: *"Lo que no sé, no importa."*
 
@@ -113,7 +113,7 @@ El patrón clásico: una persona exitosa en su campo (médico, ingeniero, abogad
 
 ---
 
-## 🔑 Resumen del Cap 07
+##  Resumen del Cap 07
 
 | Obstáculo | Disfraz común | Solución |
 |---|---|---|
@@ -125,7 +125,7 @@ El patrón clásico: una persona exitosa en su campo (médico, ingeniero, abogad
 
 ---
 
-## 🔗 Notas Relacionadas
+##  Notas Relacionadas
 
 - [[Index - Padre Rico Padre Pobre]]
 - [[Cap 06 - Trabaja para Aprender, No para Ganar Dinero]]

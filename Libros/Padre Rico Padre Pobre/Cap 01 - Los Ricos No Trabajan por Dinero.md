@@ -16,7 +16,7 @@ tags:
 
 ---
 
-## 🧒 El Punto de Partida — Kiyosaki a los 9 Años
+##  El Punto de Partida — Kiyosaki a los 9 Años
 
 Robert y su amigo Mike deciden que quieren ser ricos. Le piden ayuda al padre de Mike — el Padre Rico — quien acepta enseñarles, pero con una condición: **no habrá clases formales, aprenderán trabajando.**
 
@@ -24,7 +24,7 @@ Su primer trabajo: limpiar su tienda de cómics los sábados por **10 centavos l
 
 ---
 
-## 😠 La Primera Lección: El Juego del Resentimiento
+##  La Primera Lección: El Juego del Resentimiento
 
 Después de semanas trabajando por 10 centavos, Kiyosaki se enoja. Va a confrontar al Padre Rico exigiendo un aumento.
 
@@ -38,11 +38,11 @@ El Padre Rico le ofrece entonces $0.25, luego $1.00, luego $2.00 por hora. Con c
 
 ---
 
-## 🧠 Los Dos Enemigos del Dinero
+##  Los Dos Enemigos del Dinero
 
 El Padre Rico identifica los 2 patrones emocionales que controlan la vida financiera de casi todos:
 
-### 😨 El Miedo
+###  El Miedo
 
 ```
 No tengo suficiente dinero
@@ -55,7 +55,7 @@ No tengo suficiente dinero
 
 **Manifestación:** *"Necesito seguridad laboral"*, *"No puedo renunciar"*, *"Es un trabajo estable"*
 
-### 🤑 La Codicia
+###  La Codicia
 
 ```
 Me pagan más
@@ -72,7 +72,7 @@ Me pagan más
 
 ---
 
-## 💡 La Lección Real — Pensar con la Cabeza, no con las Emociones
+##  La Lección Real — Pensar con la Cabeza, no con las Emociones
 
 El trabajo sin paga de Kiyosaki tenía un propósito: **obligarlo a pensar en cómo generar dinero en lugar de esperar que se lo dieran.**
 
@@ -86,7 +86,7 @@ Después de semanas de trabajo gratuito, Kiyosaki y Mike notan algo: la tienda d
 
 ---
 
-## 📊 Los Dos Caminos — El Diagrama Mental
+##  Los Dos Caminos — El Diagrama Mental
 
 | | **Empleado / Asalariado** | **Inversor / Dueño** |
 |---|---|---|
@@ -98,7 +98,7 @@ Después de semanas de trabajo gratuito, Kiyosaki y Mike notan algo: la tienda d
 
 ---
 
-## 🏃 La Carrera de la Rata (Rat Race)
+##  La Carrera de la Rata (Rat Race)
 
 El Padre Rico introduce el concepto que define el libro:
 
@@ -117,7 +117,7 @@ Salario → Impuestos → Hipoteca/Arriendo → Cuotas de auto
 
 ---
 
-## 🔑 Resumen de la Lección 1
+##  Resumen de la Lección 1
 
 | Concepto | Mentalidad pobre/clase media | Mentalidad rica |
 |---|---|---|
@@ -129,7 +129,7 @@ Salario → Impuestos → Hipoteca/Arriendo → Cuotas de auto
 
 ---
 
-## 🔗 Notas Relacionadas
+##  Notas Relacionadas
 
 - [[Index - Padre Rico Padre Pobre]]
 - [[Cap 00 - Introducción]]

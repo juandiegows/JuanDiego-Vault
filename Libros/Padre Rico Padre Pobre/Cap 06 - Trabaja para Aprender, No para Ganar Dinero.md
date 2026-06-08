@@ -15,7 +15,7 @@ tags:
 
 ---
 
-## 💼 El Error del Especialista
+##  El Error del Especialista
 
 El sistema educativo premia la especialización profunda. Sé el mejor en una cosa, y el mercado te pagará bien. Kiyosaki desafía este paradigma directamente.
 
@@ -28,7 +28,7 @@ El sistema educativo premia la especialización profunda. Sé el mejor en una co
 
 ---
 
-## 🔄 La Filosofía de los Trabajos como Escuela
+##  La Filosofía de los Trabajos como Escuela
 
 El Padre Rico aconseja a Kiyosaki algo contra-intuitivo: **tomar trabajos no por el salario, sino por lo que aprenderás en ellos.**
 
@@ -44,30 +44,30 @@ El Padre Rico aconseja a Kiyosaki algo contra-intuitivo: **tomar trabajos no por
 
 ---
 
-## 💡 Las Habilidades que el Padre Rico Considera Esenciales
+##  Las Habilidades que el Padre Rico Considera Esenciales
 
-### 1. 🗣️ Ventas y Marketing — La Más Importante
+### 1. ️ Ventas y Marketing — La Más Importante
 Toda riqueza requiere vender: vender una idea, un producto, un servicio, una visión. La mayoría huye de las ventas por miedo al rechazo. Los ricos la abrazan.
 
 > *"La habilidad número uno en los negocios es vender. Si no puedes vender, no importa qué tan bueno sea tu producto."*
 
-### 2. 📊 Contabilidad y Finanzas
+### 2.  Contabilidad y Finanzas
 No necesitas ser contador — necesitas leer un estado financiero y entender los números de un negocio sin depender de que te los expliquen.
 
-### 3. 🏗️ Gestión
+### 3. ️ Gestión
 - Gestión de flujo de caja
 - Gestión de personas y equipos
 - Gestión de sistemas y procesos
 
-### 4. ⚖️ Derecho / Leyes de Negocios
+### 4. ️ Derecho / Leyes de Negocios
 Contratos, estructuras corporativas, propiedad intelectual, protección de activos. No para ser abogado, sino para no ser victimizado por no saber.
 
-### 5. 🌐 Comprensión de Mercados
+### 5.  Comprensión de Mercados
 Oferta, demanda, timing. Cuándo comprar, cuándo vender, qué es ruido y qué es señal.
 
 ---
 
-## 🧩 El Perfil T — La Metáfora de las Habilidades
+##  El Perfil T — La Metáfora de las Habilidades
 
 Kiyosaki propone construir lo que hoy llamaríamos un **perfil en T**:
 
@@ -86,7 +86,7 @@ La profundidad te da credibilidad y valor técnico. La amplitud te da la capacid
 
 ---
 
-## 📉 El Síndrome del "Eso Está Muy Por Debajo de Mí"
+##  El Síndrome del "Eso Está Muy Por Debajo de Mí"
 
 Kiyosaki describe personas brillantes que se bloquean a sí mismas:
 
@@ -100,7 +100,7 @@ Kiyosaki describe personas brillantes que se bloquean a sí mismas:
 
 ---
 
-## 🔑 Resumen de la Lección 6
+##  Resumen de la Lección 6
 
 - No elijas trabajos solo por el salario — elige también por lo que aprenderás
 - Las ventas son la habilidad más importante para cualquier persona que quiera construir riqueza
@@ -109,7 +109,7 @@ Kiyosaki describe personas brillantes que se bloquean a sí mismas:
 
 ---
 
-## 🔗 Notas Relacionadas
+##  Notas Relacionadas
 
 - [[Index - Padre Rico Padre Pobre]]
 - [[Cap 05 - Los Ricos Inventan el Dinero]]

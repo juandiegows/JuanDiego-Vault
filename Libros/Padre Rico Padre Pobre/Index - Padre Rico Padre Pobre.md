@@ -6,14 +6,14 @@ tags:
   - índice
 ---
 
-# 📗 Padre Rico, Padre Pobre — Robert Kiyosaki
+#  Padre Rico, Padre Pobre — Robert Kiyosaki
 
 > *"El activo más poderoso que tenemos es nuestra mente. Si la entrenamos bien, puede crear enormes riquezas."*
 > — Robert Kiyosaki
 
 ---
 
-## 📚 Sobre el Libro
+##  Sobre el Libro
 
 | Dato | Detalle |
 |---|---|
@@ -25,7 +25,7 @@ tags:
 
 ---
 
-## 🗂️ Índice de Capítulos
+## ️ Índice de Capítulos
 
 ### Introducción
 - [[Cap 00 - Introducción — Padre Rico Padre Pobre]]
@@ -54,7 +54,7 @@ tags:
 
 ---
 
-## 🔗 Conexiones con Otros Libros
+##  Conexiones con Otros Libros
 
 - [[El Hombre Más Rico de Babilonia]] — Base: ahorrar el 10% y eliminar deudas
 - [[El Inversor Inteligente]] — Cómo invertir el capital que liberas siguiendo los principios de Kiyosaki

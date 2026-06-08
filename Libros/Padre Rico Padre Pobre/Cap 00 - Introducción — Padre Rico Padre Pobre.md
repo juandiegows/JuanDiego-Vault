@@ -14,7 +14,7 @@ tags:
 
 ---
 
-## 👨‍👦 Los Dos Padres
+## ‍ Los Dos Padres
 
 Kiyosaki creció con dos figuras paternas que representan dos filosofías financieras opuestas:
 
@@ -30,7 +30,7 @@ Kiyosaki creció con dos figuras paternas que representan dos filosofías financ
 
 ---
 
-## 🏫 El Problema con la Educación Tradicional
+##  El Problema con la Educación Tradicional
 
 Kiyosaki argumenta que el sistema educativo enseña todo excepto lo más importante: **cómo funciona el dinero**.
 
@@ -49,7 +49,7 @@ Estudias → Consigues empleo → Recibes salario
 
 ---
 
-## 🎯 El Objetivo del Libro
+##  El Objetivo del Libro
 
 Kiyosaki no escribe un manual de inversión técnico. Escribe sobre los **6 principios mentales** que separan a los ricos de los que no lo son:
 
@@ -64,13 +64,13 @@ Kiyosaki no escribe un manual de inversión técnico. Escribe sobre los **6 prin
 
 ---
 
-## 💡 La Promesa del Libro
+##  La Promesa del Libro
 
 > *"Este libro no te hará rico de la noche a la mañana. Te enseñará a pensar diferente sobre el dinero. Y ese cambio de pensamiento es el único activo que nadie puede quitarte."*
 
 ---
 
-## 🔗 Notas Relacionadas
+##  Notas Relacionadas
 
 - [[Index - Padre Rico Padre Pobre]]
 - [[Cap 01 - La Lección Más Importante — Los Ricos No Trabajan por Dinero]]

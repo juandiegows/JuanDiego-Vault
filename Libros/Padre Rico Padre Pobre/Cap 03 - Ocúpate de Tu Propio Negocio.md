@@ -15,7 +15,7 @@ tags:
 
 ---
 
-## 🍔 La Historia de McDonald's
+##  La Historia de McDonald's
 
 Kiyosaki abre el capítulo con una pregunta que hace Ray Kroc (fundador de McDonald's) en una conferencia universitaria:
 
@@ -31,7 +31,7 @@ McDonald's no vende hamburguesas. Vende **ubicaciones inmobiliarias** que se fin
 
 ---
 
-## 💼 La Diferencia Entre Profesión y Negocio
+##  La Diferencia Entre Profesión y Negocio
 
 El error más común según el Padre Rico:
 
@@ -50,30 +50,30 @@ Un negocio real es aquel que **genera ingresos aunque no estés presente.**
 
 ---
 
-## 🏗️ Qué Incluye la Columna de Activos
+## ️ Qué Incluye la Columna de Activos
 
 El Padre Rico define los activos reales que deberías construir:
 
-### 1. 📈 Negocios que no requieren tu presencia
+### 1.  Negocios que no requieren tu presencia
 Empresas donde eres dueño pero no operador. Si tu presencia es necesaria para que funcione, tienes un trabajo, no un negocio.
 
-### 2. 🏠 Bienes Raíces
+### 2.  Bienes Raíces
 Inmuebles que generan renta positiva — es decir, la renta recibida supera todos los gastos (hipoteca, mantenimiento, impuestos, seguros).
 
-### 3. 📊 Acciones, Bonos y Fondos
+### 3.  Acciones, Bonos y Fondos
 Participaciones en negocios de otros. Flujo pasivo vía dividendos y apreciación de capital.
 
-### 4. 🧠 Propiedad Intelectual
+### 4.  Propiedad Intelectual
 Libros, música, patentes, software, marcas. Se crean una vez y generan regalías indefinidamente.
 
-### 5. 💵 Cualquier cosa que genere flujo de caja positivo
+### 5.  Cualquier cosa que genere flujo de caja positivo
 Si entra más dinero del que sale, es un activo.
 
 > [!NOTE] Como desarrollador Full Stack, el software propio, las apps, los cursos online y las APIs como servicio son formas directas de propiedad intelectual que encajan en esta categoría.
 
 ---
 
-## 🎓 El Consejo Práctico — No Renuncies a tu Trabajo (Aún)
+##  El Consejo Práctico — No Renuncies a tu Trabajo (Aún)
 
 Kiyosaki es explícito: **no te dice que renuncies a tu empleo.**
 
@@ -93,24 +93,24 @@ La clave es simple pero difícil: **cada vez que recibes dinero, compra un activ
 
 ---
 
-## ⚠️ Los Errores que Impiden Construir Activos
+## ️ Los Errores que Impiden Construir Activos
 
 El Padre Rico identifica los 3 patrones que bloquean a la clase media:
 
-### ❌ Error 1 — Inflación del Estilo de Vida
+###  Error 1 — Inflación del Estilo de Vida
 Cada aumento de sueldo se convierte inmediatamente en gastos más altos. El margen nunca crece porque los gastos crecen igual de rápido.
 
-### ❌ Error 2 — Confundir Pasivos con Activos
+###  Error 2 — Confundir Pasivos con Activos
 Casa propia, auto nuevo, gadgets — todos se sienten como logros pero son pasivos que drenan el flujo de caja mensualmente.
 
-### ❌ Error 3 — No Empezar por el Miedo
+###  Error 3 — No Empezar por el Miedo
 *"No tengo suficiente dinero para invertir"*, *"Es muy arriesgado"*, *"Lo haré cuando tenga más"*. Mientras tanto, el tiempo — el activo más valioso — se consume.
 
 > [!WARNING] El mejor momento para empezar a construir activos fue hace 10 años. El segundo mejor momento es hoy. Esperar condiciones perfectas garantiza no empezar nunca.
 
 ---
 
-## 🔢 La Regla Práctica de Kiyosaki
+##  La Regla Práctica de Kiyosaki
 
 Antes de gastar en cualquier cosa no esencial, pregúntate:
 
@@ -126,7 +126,7 @@ Quiero un gadget de $500
 
 ---
 
-## 🔑 Resumen de la Lección 3
+##  Resumen de la Lección 3
 
 - Tu **profesión** paga tus facturas. Tu **negocio** construye tu riqueza. Son dos cosas distintas.
 - El negocio real de los ricos es su **columna de activos**, no su título profesional.
@@ -135,7 +135,7 @@ Quiero un gadget de $500
 
 ---
 
-## 🔗 Notas Relacionadas
+##  Notas Relacionadas
 
 - [[Index - Padre Rico Padre Pobre]]
 - [[Cap 02 - ¿Por Qué Enseñar Educación Financiera?]]

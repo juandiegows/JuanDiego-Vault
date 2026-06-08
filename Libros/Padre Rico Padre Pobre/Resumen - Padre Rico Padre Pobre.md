@@ -10,7 +10,7 @@ date: 2026-06-07
 status: revisado
 ---
 
-# 📗 Padre Rico, Padre Pobre — Resumen Completo
+#  Padre Rico, Padre Pobre — Resumen Completo
 
 **Autor:** Robert T. Kiyosaki | **Año:** 1997
 
@@ -19,7 +19,7 @@ status: revisado
 
 ---
 
-## 🗺️ La Tesis Central
+## ️ La Tesis Central
 
 Kiyosaki no escribe sobre cómo ahorrar más o invertir mejor en términos técnicos. Escribe sobre el **cambio de mentalidad** que precede a cualquier estrategia financiera exitosa.
 
@@ -27,7 +27,7 @@ La diferencia entre el Padre Pobre (PhD, empleo estable, murió endeudado) y el 
 
 ---
 
-## ⚔️ La Distinción Más Importante
+## ️ La Distinción Más Importante
 
 ```
 ACTIVO  →  pone dinero en tu bolsillo
@@ -38,7 +38,7 @@ PASIVO  →  saca dinero de tu bolsillo
 
 ---
 
-## 👤 Los 3 Patrones Financieros
+##  Los 3 Patrones Financieros
 
 | | Pobre | Clase Media | Rico |
 |---|---|---|---|
@@ -49,7 +49,7 @@ PASIVO  →  saca dinero de tu bolsillo
 
 ---
 
-## 🔟 Las 6 Lecciones + 2 Pasos
+##  Las 6 Lecciones + 2 Pasos
 
 | # | Lección | Núcleo |
 |---|---|---|
@@ -64,7 +64,7 @@ PASIVO  →  saca dinero de tu bolsillo
 
 ---
 
-## 💡 Los 5 Tipos de Activos a Construir
+##  Los 5 Tipos de Activos a Construir
 
 1. **Negocios** que generan ingresos sin tu presencia activa
 2. **Bienes raíces** con flujo de caja positivo (renta > gastos)
@@ -74,7 +74,7 @@ PASIVO  →  saca dinero de tu bolsillo
 
 ---
 
-## ⚠️ Los 5 Obstáculos que Bloquean la Riqueza
+## ️ Los 5 Obstáculos que Bloquean la Riqueza
 
 > [!WARNING]
 > **Miedo** — a perder dinero. Cura: perder rápido, aprender, seguir.
@@ -93,7 +93,7 @@ PASIVO  →  saca dinero de tu bolsillo
 
 ---
 
-## 🔗 Conexiones con el Vault
+##  Conexiones con el Vault
 
 - [[El Hombre Más Rico de Babilonia]] — El hábito del 10% de Arkad = el "págate primero" de Kiyosaki
 - [[El Inversor Inteligente]] — Graham define activos de forma similar; el margen de seguridad = comprar activos reales a buen precio
@@ -101,7 +101,7 @@ PASIVO  →  saca dinero de tu bolsillo
 
 ---
 
-## ✅ Plan de Acción
+##  Plan de Acción
 
 > [!SUCCESS]
 > Abre una cuenta separada exclusivamente para inversiones. Transfiere algo — lo que sea — antes de cualquier gasto.

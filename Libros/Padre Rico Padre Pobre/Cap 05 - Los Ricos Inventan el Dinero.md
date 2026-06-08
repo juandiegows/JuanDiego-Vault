@@ -15,7 +15,7 @@ tags:
 
 ---
 
-## 🧠 La Inteligencia Financiera como Ventaja Competitiva
+##  La Inteligencia Financiera como Ventaja Competitiva
 
 Kiyosaki introduce un concepto que va contra la narrativa popular: no necesitas dinero para hacer dinero. Necesitas **inteligencia financiera** para crear oportunidades donde otros solo ven obstáculos.
 
@@ -25,7 +25,7 @@ Los ricos no esperan las oportunidades — las **crean o las reconocen** antes q
 
 ---
 
-## 📉 Cómo Reaccionan los Dos Perfiles ante el Mismo Mercado
+##  Cómo Reaccionan los Dos Perfiles ante el Mismo Mercado
 
 Kiyosaki describe el colapso inmobiliario de los 80s en Texas. Mientras miles de personas perdían sus propiedades, un grupo pequeño se estaba haciendo rico comprando en el fondo.
 
@@ -37,7 +37,7 @@ Kiyosaki describe el colapso inmobiliario de los 80s en Texas. Mientras miles de
 
 ---
 
-## 🏠 El Caso Práctico — Comprar sin Dinero Propio
+##  El Caso Práctico — Comprar sin Dinero Propio
 
 Kiyosaki relata un ejemplo real que usa para ilustrar la creatividad financiera:
 
@@ -57,9 +57,9 @@ Kiyosaki relata un ejemplo real que usa para ilustrar la creatividad financiera:
 
 ---
 
-## 🚧 Por Qué la Mayoría No Lo Hace — Los 2 Bloqueos
+##  Por Qué la Mayoría No Lo Hace — Los 2 Bloqueos
 
-### 1. 😨 El Miedo a Perder
+### 1.  El Miedo a Perder
 
 El sistema educativo castiga el error. En las finanzas, el error es parte del aprendizaje. Los ricos han perdido dinero — muchos lo han perdido todo varias veces. La diferencia es que siguen, aprenden y vuelven más fuertes.
 
@@ -70,7 +70,7 @@ El sistema educativo castiga el error. En las finanzas, el error es parte del ap
 - Capital que duerme en cuentas de ahorro al 2% mientras la inflación come el 6%
 - Años de vida laboral desperdiciados en lugar de construir activos
 
-### 2. 🦥 La Pereza Disfrazada de Ocupación
+### 2.  La Pereza Disfrazada de Ocupación
 
 Kiyosaki identifica una forma de pereza que no parece pereza: estar siempre "muy ocupado".
 
@@ -80,7 +80,7 @@ Kiyosaki identifica una forma de pereza que no parece pereza: estar siempre "muy
 
 ---
 
-## 💡 Los 3 Tipos de Ingresos
+##  Los 3 Tipos de Ingresos
 
 El Padre Rico introduce una distinción fiscal crítica que la mayoría nunca aprende:
 
@@ -94,7 +94,7 @@ El Padre Rico introduce una distinción fiscal crítica que la mayoría nunca ap
 
 ---
 
-## 🔑 Resumen de la Lección 5
+##  Resumen de la Lección 5
 
 - El dinero es una idea — quien tiene conocimiento puede crear dinero sin tener dinero previo
 - Las oportunidades siempre existen; la diferencia es si tienes el framework para verlas
@@ -103,7 +103,7 @@ El Padre Rico introduce una distinción fiscal crítica que la mayoría nunca ap
 
 ---
 
-## 🔗 Notas Relacionadas
+##  Notas Relacionadas
 
 - [[Index - Padre Rico Padre Pobre]]
 - [[Cap 04 - La Historia de los Impuestos y el Poder de las Corporaciones]]

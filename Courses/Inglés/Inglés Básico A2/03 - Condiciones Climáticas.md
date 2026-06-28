@@ -70,4 +70,4 @@ tags:
 
 | ← Anterior | Inicio | Siguiente → |
 | :---: | :---: | :---: |
-| [[02 - Artículos en Inglés\|← Artículos]] | [[Index\|📋 Index A2]] | — |
+| [[02 - Artículos en Inglés\|← Artículos]] | [[Index\|📋 Index A2]] | [[04 - Presencia y Ausencia Here y There\|Here/There →]] |

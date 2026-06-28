@@ -20,6 +20,7 @@ tags:
 | [[01 - Conectores y Expresiones Básicas\|01]] | 🔗 Conectores y Expresiones Básicas | ✅ |
 | [[02 - Artículos en Inglés\|02]] | 📰 Artículos en Inglés | 🔄 |
 | [[03 - Condiciones Climáticas\|03]] | 🌤️ Condiciones Climáticas | ✅ |
+| [[04 - Presencia y Ausencia Here y There\|04]] | 📍 Presencia y Ausencia — Here y There | ✅ |
 
 ---
 

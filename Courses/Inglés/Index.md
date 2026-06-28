@@ -20,6 +20,10 @@ tags:
 - Fuente: Platzi | Estado: ✅ Cerrado
 - Para principiantes: Verbo To Be, Presente Simple, vocabulario básico
 
+### [[Inglés Básico A2/Index|Inglés Básico A2]]
+- Fuente: Platzi | Estado: 🔄 En progreso
+- Conectores (and/but/or), expresiones básicas, conversación cotidiana
+
 ---
 
 ## 🔑 Marco de Referencia — MCER (CEFR)

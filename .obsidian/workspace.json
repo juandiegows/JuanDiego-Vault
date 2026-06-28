@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cursos/Finanzas/Aprende a Invertir en Bolsa/Video 01 - Bienvenida e Introduccion al Curso.md",
+                "file": "Courses/Inglés/Inglés Básico A2/02 - Artículos en Inglés.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Video 01 - Bienvenida e Introduccion al Curso"
+              "title": "02 - Artículos en Inglés"
             }
           }
         ]
@@ -184,8 +184,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "89f95c3229abaefa",
+  "active": "12d61d9347964732",
   "lastOpenFiles": [
+    "Courses/Inglés/Inglés Básico A2/02 - Artículos en Inglés.md.tmp.34976.ebfb4f1d896c",
+    "Courses/Inglés/Inglés Básico A2/Index.md.tmp.34976.3bbe9223c7b0",
+    "Courses/Inglés/Inglés Básico A2/03 - Condiciones Climáticas.md",
+    "Courses/Inglés/Inglés Básico A2/03 - Condiciones Climáticas.md.tmp.34976.09b4e9668b7a",
+    "Courses/Inglés/Inglés Básico A2/02 - Artículos en Inglés.md.tmp.34976.f85663bbce08",
+    "Courses/Inglés/Inglés Básico A2/01 - Conectores y Expresiones Básicas.md",
     "Libros/Padre Rico Padre Pobre/Cap 07 - Cómo Superar los Obstáculos.md",
     "Libros/El Inversor Inteligente/Nota-Final-Zweig-Sobre-el-Legado-de-Graham.md",
     "Libros/El Inversor Inteligente/Epilogo-El-Caso-GEICO.md",
@@ -210,17 +216,11 @@
     "Libros/Padre Rico Padre Pobre/Cap 03 - Ocúpate de Tu Propio Negocio.md",
     "Libros/Padre Rico Padre Pobre/Cap 02 - Por Que Ensenar Educacion Financiera.md",
     "Libros/Padre Rico Padre Pobre/Cap 01 - Los Ricos No Trabajan por Dinero.md",
-    "Libros/Padre Rico Padre Pobre/Cap 00 - Introducción — Padre Rico Padre Pobre.md",
-    "Libros/El Inversor Inteligente/Cap 16 - Valores Convertibles y Warrants.md",
-    "Libros/El Inversor Inteligente/Cap 18 - Comparación de Ocho Pares de Empresas.md",
     "Libros/El Inversor Inteligente/Index.base",
     "Cursos/Videojuegos",
     "Cursos/Tecnología",
     "Cursos/Programación/React.js",
     "Cursos/Programación/Next.js",
-    "Cursos/Programación/JavaScript",
-    "Cursos/Programación/Go",
-    "Cursos/Programación/DevOps y Redes",
-    "Cursos/Programación"
+    "Cursos/Programación/JavaScript"
   ]
 }

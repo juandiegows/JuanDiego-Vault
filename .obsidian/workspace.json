@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "02 - Artículos en Inglés"
             }
+          },
+          {
+            "id": "5535bdedc0bc3eb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Courses/Ciberseguridad/Hacking Ético y Pentesting/05 - OSINT — Herramientas de Automatización.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "05 - OSINT — Herramientas de Automatización"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,8 +199,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "12d61d9347964732",
+  "active": "5535bdedc0bc3eb2",
   "lastOpenFiles": [
+    "Courses/Ciberseguridad/Hacking Ético y Pentesting/04 - OSINT — Shodan y Motores de Búsqueda.md",
+    "Courses/Ciberseguridad/Hacking Ético y Pentesting/03 - OSINT — Google Hacking.md",
+    "Courses/Ciberseguridad/Hacking Ético y Pentesting/02 - Metodología del Hacking Ético.md",
+    "Courses/Ciberseguridad/Hacking Ético y Pentesting/01 - Introducción y Preparación del Entorno.md",
+    "Dropshipping Elite (Colombia).md",
+    "Pasted image 20260715101813.png",
+    "Courses/Inglés/Inglés Básico A2/02 - Artículos en Inglés.md",
+    "Investigacion",
     "Courses/Inglés/Inglés Básico A2/Index.md.tmp.34976.241df854b84b",
     "Courses/Inglés/Inglés Básico A2/04 - Presencia y Ausencia Here y There.md",
     "Courses/Inglés/Inglés Básico A2/04 - Presencia y Ausencia Here y There.md.tmp.34976.2d599f3798e0",
@@ -212,15 +235,8 @@
     "Cursos/Finanzas/Aprende a Invertir en Bolsa/Video 03 - Por Que Invertir en Acciones.md",
     "Cursos/Finanzas/Aprende a Invertir en Bolsa/Video 04 - Que es una Accion.md",
     "Cursos/Finanzas/Aprende a Invertir en Bolsa/Video 02 - Modulo 0 Prerequisitos Antes de Invertir.md",
-    "Cursos/Finanzas/Aprende a Invertir en Bolsa/Video 01 - Bienvenida e Introduccion al Curso.md",
     "Cursos/Finanzas/Aprende a Invertir en Bolsa",
-    "Libros/Padre Rico Padre Pobre/Cap 06 - Trabaja para Aprender, No para Ganar Dinero.md",
-    "Libros/Padre Rico Padre Pobre/Cap 05 - Los Ricos Inventan el Dinero.md",
-    "Libros/Padre Rico Padre Pobre/Cap 03 - Ocúpate de Tu Propio Negocio.md",
-    "Libros/Padre Rico Padre Pobre/Cap 02 - Por Que Ensenar Educacion Financiera.md",
     "Libros/El Inversor Inteligente/Index.base",
-    "Cursos/Videojuegos",
-    "Cursos/Tecnología",
-    "Cursos/Programación/React.js"
+    "Cursos/Videojuegos"
   ]
 }

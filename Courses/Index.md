@@ -38,6 +38,10 @@ Diseño, Game Maker Studio y desarrollo de juegos indie.
 Redes, criptografía, fundamentos de computación e ingeniería.
 - [[Tecnología/Index|Ver cursos →]]
 
+### 🔒 [[Ciberseguridad/Index|Ciberseguridad]]
+Hacking ético, pentesting y OSINT.
+- [[Ciberseguridad/Index|Ver cursos →]]
+
 ---
 
 ## 📊 Resumen de Cursos
@@ -50,6 +54,7 @@ Redes, criptografía, fundamentos de computación e ingeniería.
 | Finanzas | 2 | ✅/🔄 Mixto |
 | Videojuegos | 2 | ✅ Cerrado |
 | Tecnología | 4 | ✅ Cerrado |
+| Ciberseguridad | 1 | 🔄 En progreso |
 
 ---
 

@@ -12,7 +12,7 @@ tags:
 > *"Hacer que la meta deje de moverse es la habilidad financiera más difícil de todas."*
 > — Morgan Housel
 
-> [!NOTE] Estado: 🔄 En progreso — 3 de 20 capítulos leídos y resumidos.
+> [!NOTE] Estado: 🔄 En progreso — 5 de 20 capítulos leídos y resumidos.
 
 ---
 
@@ -34,10 +34,10 @@ tags:
 - [[Cap 01 - Nadie Está Loco]]
 - [[Cap 02 - Suerte y Riesgo]]
 - [[Cap 03 - No Tener Suficiente]]
+- [[Cap 04 - El Interés Compuesto que Confunde]]
+- [[Cap 05 - Hacerse Rico vs. Permanecer Rico]]
 
 ### Pendientes ⏳ (títulos orientativos, se ajustan al leer)
-- Cap 04 — El Interés Compuesto que Confunde
-- Cap 05 — Hacerse Rico vs. Permanecer Rico
 - Cap 06 — Colas: Tú Ganas
 - Cap 07 — Libertad
 - Cap 08 — La Paradoja del Hombre en el Auto
@@ -63,16 +63,20 @@ tags:
 | 1. Nadie Está Loco | El comportamiento pesa más que la educación financiera técnica |
 | 2. Suerte y Riesgo | Ningún resultado extremo (bueno o malo) se explica solo por habilidad |
 | 3. No Tener Suficiente | Saber definir "suficiente" evita arriesgar lo que ya tienes por conseguir más |
+| 4. El Interés Compuesto que Confunde | El tiempo, no la tasa de retorno, es el verdadero motor de la riqueza |
+| 5. Hacerse Rico vs. Permanecer Rico | Ganar dinero y conservarlo requieren mentalidades opuestas |
 
 ---
 
-## 💡 Ideas Más Importantes (hasta el capítulo 3)
+## 💡 Ideas Más Importantes (hasta el capítulo 5)
 
 1. Tu comportamiento con el dinero importa más que tu inteligencia financiera técnica
 2. Nadie toma decisiones "locas" — todos actuamos según lo que hemos vivido
 3. Suerte y riesgo son la misma fuerza vista desde lados opuestos
 4. No copies casos extremos de éxito o fracaso — estudia patrones amplios, no individuos
 5. Define tu "número de suficiente" antes de que la codicia lo defina por ti
+6. El interés compuesto necesita tiempo, no genialidad — sostener la estrategia importa más que optimizarla
+7. Sobrevivir financieramente (margen de error, humildad) pesa más que maximizar ganancias
 
 ---
 

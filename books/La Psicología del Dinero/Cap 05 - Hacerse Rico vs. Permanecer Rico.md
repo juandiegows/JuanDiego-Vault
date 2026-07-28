@@ -97,3 +97,5 @@ plan (algo que, según Housel, siempre termina pasando tarde o temprano).
 
 - [[Index - La Psicología del Dinero]]
 - [[Cap 04 - El Interés Compuesto que Confunde]]
+- [[Cap 06 - Colas, Tú Ganas]]
+- [[Libros Mencionados y Recomendados - La Psicología del Dinero]]

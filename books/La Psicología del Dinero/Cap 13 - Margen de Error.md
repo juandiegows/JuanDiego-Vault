@@ -120,3 +120,4 @@ está en las ventas de pánico que evita.
 - [[Cap 14 - Vas a Cambiar]]
 - [[Cap 05 - Hacerse Rico vs. Permanecer Rico]]
 - [[Libros Mencionados y Recomendados - La Psicología del Dinero]]
+- [[Capitulo-20-El-Margen-de-Seguridad|El Inversor Inteligente - Margen de Seguridad]]

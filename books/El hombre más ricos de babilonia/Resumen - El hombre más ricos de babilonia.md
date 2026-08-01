@@ -81,3 +81,17 @@ La suerte no es azar; es el encuentro entre la preparación y la oportunidad. La
 
 ---
 #finanzas #babilonia #riqueza #estrategia
+
+## 🌐 Conexiones con el Vault
+
+- [[Cap 10 - Ahorra Dinero]] — "págate a ti mismo primero" es la versión narrativa antigua
+  de la fórmula de Housel riqueza = ingreso − ego: la tasa de ahorro como el único
+  control real sobre la riqueza.
+- [[Resumen - Padre Rico Padre Pobre]] — la misma regla del 10% de Arkad es la base del
+  "paga primero a tus activos" que Kiyosaki formaliza como hábito financiero central.
+- [[Cap 10 - El Inversor y sus Asesores]] — el remedio "protege el tesoro... pide consejo
+  a expertos" es exactamente la advertencia de Graham sobre elegir asesores fiduciarios
+  y no al más barato ni al más cercano.
+- [[Capitulo-20-El-Margen-de-Seguridad]] — la Ley IV ("el oro huye del hombre que invierte
+  en negocios que no conoce") es la versión antigua del margen de seguridad de Graham:
+  no pagar por lo que no puedes evaluar.

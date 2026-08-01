@@ -230,3 +230,12 @@ No fue solo el petróleo. Fue la política fiscal irresponsable + el fin del pat
 
 > La diferencia clave: en 2021–2023 la Fed tenía el precedente de los 70. Sabía que demorar el ajuste era un error. Actuó antes, aunque igual no lo suficientemente rápido.
 
+---
+
+## 🔗 Notas Relacionadas
+
+- [[Cap 2 - El Inversor y la inflación]]
+- [[Inflación vs Deflación — Riesgos para el Inversor]]
+- [[TIPS - Bonos Indexados a Inflación]]
+- [[Retorno Real vs Retorno Nominal]]
+

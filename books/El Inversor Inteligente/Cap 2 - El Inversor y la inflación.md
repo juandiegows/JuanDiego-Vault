@@ -249,3 +249,5 @@ Zweig también advertiría sobre el error opuesto: creer que la inflación ya no
 - [[Diversificación - El único almuerzo gratis]]
 - [[Retorno Real vs Retorno Nominal]]
 - [[La Gran Inflación de los 70 - EE.UU.]]
+- [[Resumen - El Inversor Inteligente]]
+- [[Cap 1 - Invertir en contra de la especulación]]

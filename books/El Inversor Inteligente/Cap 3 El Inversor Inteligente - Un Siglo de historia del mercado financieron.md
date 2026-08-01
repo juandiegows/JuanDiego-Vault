@@ -60,4 +60,13 @@ Graham explica que el retorno de tu inversión es la suma de:
 
 ---
 
+## 🔗 Notas Relacionadas
+
+- [[Resumen - El Inversor Inteligente]]
+- [[Cap 2 - El Inversor y la inflación]]
+- [[Cap 4 -Estrategia de inversión general - El inversor defensivo.]]
+- [[Burbuja Punto-com 2000]]
+
+---
+
 [[Cap 4 -Estrategia de inversión general - El inversor defensivo.]]

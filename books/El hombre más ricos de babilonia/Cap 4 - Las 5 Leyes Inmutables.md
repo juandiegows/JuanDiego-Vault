@@ -56,3 +56,9 @@ Como desarrollador y analista, estas leyes se aplican directamente a tu stack te
 #riqueza #estrategia #babilonia
 
 [[Cap 5 - Planes Maestros de Acción Financiera]]
+
+## 🔗 Notas Relacionadas
+
+- [[Capitulo-20-El-Margen-de-Seguridad]]
+- [[Cap 11 Análisis de Valores para el Inversor Lego Enfoque General|El Inversor Inteligente - Fórmula de Graham]]
+- [[Cap 17 - Cuatro Historias de Casos Instructivos|El Inversor Inteligente - Casos Instructivos]]

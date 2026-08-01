@@ -46,3 +46,10 @@ Un inversor equilibrado suele combinar ambos tipos de activos en su cartera seg�
 ---
 
 #finanzas #inversion #rentafija #rentavariable #educacionfinanciera #bolsa #conceptosbasicos
+
+---
+
+## 🔗 Notas Relacionadas
+
+- [[Cap 1 - Invertir en contra de la especulación]]
+- [[Análisis de Bonos]]

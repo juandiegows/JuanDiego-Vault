@@ -98,6 +98,15 @@ PASIVO  →  saca dinero de tu bolsillo
 - [[El Hombre Más Rico de Babilonia]] — El hábito del 10% de Arkad = el "págate primero" de Kiyosaki
 - [[El Inversor Inteligente]] — Graham define activos de forma similar; el margen de seguridad = comprar activos reales a buen precio
 - [[Hábitos Atómicos]] — Los sistemas de Clear son el motor que hace sostenibles los principios de Kiyosaki
+- [[Cap 09 - La Riqueza es lo que No Ves]] — la riqueza invisible de Housel es el mismo punto
+  que la distinción activo/pasivo de Kiyosaki: la clase media compra pasivos visibles
+  creyendo que son activos, mientras la riqueza real nunca se exhibe.
+- [[Cap 3 - El relato de los 7 remedios para una bolsa escasa]] — el remedio 7 de Arkad
+  ("aumenta tu habilidad") es el mismo argumento que Kiyosaki desarrolla en la Lección 6:
+  trabajar para aprender vale más que trabajar solo por el salario.
+- [[Capitulo-20-El-Margen-de-Seguridad]] — el margen de seguridad de Graham es la versión
+  cuantitativa de "no inviertas en lo que no conoces", el mismo riesgo que Kiyosaki
+  atribuye a la arrogancia como obstáculo financiero.
 
 ---
 

@@ -80,3 +80,5 @@ Aferrarse demasiado a una etiqueta te hace frágil. Si pierdes el rol, pierdes t
 - [[Index]]
 - [[Cap 21 - La Regla de Ricitos de Oro]]
 - [[Cap 23 - Conclusión — El Secreto para Resultados que Duren]]
+- [[Cap 04 - Identidad — Cómo tus Hábitos te Moldean]]
+- [[Cap 14 - Vas a Cambiar]]

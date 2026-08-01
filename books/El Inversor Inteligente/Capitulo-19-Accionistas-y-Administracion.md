@@ -156,6 +156,7 @@ Zweig introduce el caso Enron. Toda la información sobre el fraude estaba en el
 - [[Capítulo 20 — El Margen de Seguridad]] — La vigilancia activa del accionista es una forma de margen de seguridad no financiero.
 - [[Análisis Fundamental — EPS y Payout Ratio]] — Métricas centrales para evaluar política de dividendos.
 - [[Gobierno Corporativo — Junta Directiva e Independencia]] — El capítulo original de 1949 tenía 34 páginas sobre esto; Graham lo redujo a 8 con frustración.
+- [[Cap 17 - Cuatro Historias de Casos Instructivos]] — El caso NVF/Sharon Steel muestra exactamente el tipo de manipulación contable que este capítulo enseña a detectar leyendo el proxy statement, no solo el balance.
 
 ---
 

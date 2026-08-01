@@ -108,3 +108,4 @@ de pánico —vender o aguantar— define décadas de resultado. Housel cita a N
 - [[Cap 05 - Hacerse Rico vs. Permanecer Rico]]
 - [[Cap 07 - Libertad]]
 - [[Libros Mencionados y Recomendados - La Psicología del Dinero]]
+- [[Diversificación - El único almuerzo gratis]]

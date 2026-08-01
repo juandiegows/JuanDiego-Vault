@@ -166,3 +166,6 @@ El Padre Rico enseÃ±a a construir un estado financiero personal simple:
 - [[Cap 01 - Los Ricos No Trabajan por Dinero]]
 - [[Cap 03 - OcÃºpate de Tu Propio Negocio]]
 - [[El Inversor Inteligente]] â€” Graham define activos de forma similar: todo lo que genera flujo de caja
+- [[Cap 09 - La Riqueza es lo que No Ves]]
+- [[Cap 3 - El relato de los 7 remedios para una bolsa escasa]]
+- [[Cap 14 - Selección de Acciones para el Inversor Defensivo|El Inversor Inteligente - Cap 14]]

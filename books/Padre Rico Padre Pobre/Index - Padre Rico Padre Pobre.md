@@ -59,3 +59,12 @@ tags:
 - [[El Hombre Más Rico de Babilonia]] — Base: ahorrar el 10% y eliminar deudas
 - [[El Inversor Inteligente]] — Cómo invertir el capital que liberas siguiendo los principios de Kiyosaki
 - [[Hábitos Atómicos]] — Los sistemas de hábitos de Clear aplicados a los hábitos financieros de Kiyosaki
+- [[Cap 10 - Ahorra Dinero]] — el "págate primero" de [[Cap 08 - Primeros Pasos]] es la misma
+  disciplina que Housel resume como riqueza = ingreso − ego: la tasa de ahorro es lo único
+  que controlas por completo.
+- [[Cap 2 - El Plan de las 5 Tablillas de Dabasir]] — la regla 70-20-10 de Babilonia es la
+  versión narrativa más antigua del "paga primero tus activos" que estructura el libro
+  de Kiyosaki.
+- [[Cap 10 - El Inversor y sus Asesores]] — el consejo de "paga bien a tus asesores"
+  ([[Cap 08 - Primeros Pasos]]) es la misma advertencia de Graham sobre elegir asesores
+  fiduciarios en vez de los más baratos.

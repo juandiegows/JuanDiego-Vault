@@ -70,3 +70,13 @@ Imagina una empresa tecnológica "Unicornio" que sale a bolsa valorada en billon
 - [ ] **Acción:** Revisar si mi portafolio contiene activos de "moda" que carezcan de un historial de beneficios sólido.
 
 ---
+
+## 🔗 Notas Relacionadas
+
+- [[Resumen - El Inversor Inteligente]]
+- [[Cap 5 - el inversor defensivo y las acciones ordinarias]]
+- [[Cap 7 Inversor Emprededor - aspecto positivos]]
+- [[Cap 10 - El Inversor y sus Asesores]]
+- [[Cap 4 - Las 5 Leyes Inmutables]]
+
+---

@@ -277,6 +277,9 @@ La inversión más rentable de Graham. En 1948 invirtió el **25% de los activos
 
 - [[El Hombre Más Rico de Babilonia]] — Complementario: Babilonia enseña el **hábito** de ahorrar e invertir; Graham enseña **cómo** invertir lo ahorrado.
 - [[Hábitos Atómicos]] — La disciplina conductual que Zweig pide en el cap. 20 es exactamente el sistema de hábitos que James Clear describe. El autocontrol ante Mr. Market es un hábito, no un rasgo innato.
+- [[Cap 03 - Sistemas vs Metas]] — "No te elevas al nivel de tus metas, desciendes al nivel de tus sistemas" es literalmente la regla del 50/50 y los 7 criterios de Graham: un sistema mecánico que no requiere fuerza de voluntad diaria, aplicado en [[Cap 4 -Estrategia de inversión general - El inversor defensivo.]].
+- [[Resumen - Padre Rico Padre Pobre]] — Kiyosaki define activo como "todo lo que pone dinero en tu bolsillo"; Graham exige exactamente eso (beneficios reales, dividendos sostenidos, balance sólido) en sus 7 criterios del inversor defensivo. Ambos libros rechazan confundir apariencia de riqueza con activos reales.
+- [[Resumen - La Psicología del Dinero]] — Housel dedica un capítulo entero ([[Cap 13 - Margen de Error]]) a generalizar el margen de seguridad de Graham a toda la vida financiera, y otro ([[Cap 16 - Tú y Yo]]) a explicar por qué las fórmulas exactas de Graham envejecieron mientras sus principios (Mr. Market, margen de seguridad) siguen intactos.
 
 ---
 

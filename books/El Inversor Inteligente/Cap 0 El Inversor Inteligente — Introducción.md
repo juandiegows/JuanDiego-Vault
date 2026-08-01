@@ -318,3 +318,12 @@ Margen de seg.: Fácil de encontrar Margen de seg.: Difícil, hay que buscar
 ---
 
 _Próximo capítulo →_ [[Cap 1 - Invertir en contra de la especulación]]
+
+## 🔗 Notas Relacionadas
+
+- [[Resumen - El Inversor Inteligente]]
+- [[Cap 8 - El Inversor y las Fluctuaciones del Mercado]]
+- [[Capitulo-20-El-Margen-de-Seguridad]]
+- [[Benjamin Graham - Biografía]]
+- [[Jason Zweig - Comentarista]]
+- [[Burbuja Punto-com 2000]]

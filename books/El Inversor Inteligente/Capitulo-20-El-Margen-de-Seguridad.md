@@ -181,6 +181,7 @@ El margen de seguridad es precisamente el antídoto: **obliga a que el precio se
 - [[Capítulo 19 — Accionistas y Administración]] — La vigilancia activa del accionista como margen de seguridad no financiero.
 - [[Valor Intrínseco — Cálculo y Métodos]] — Base técnica para determinar el denominador del margen.
 - [[Mr. Market — Capítulo 8]] — La parabola que explica por qué los precios divergen del valor (y crean oportunidades de margen).
+- [[Cap 13 - Margen de Error]] — Housel toma el margen de seguridad de Graham y lo generaliza a toda la vida financiera (gasto de jubilación, volatilidad, puntos únicos de falla). Es la versión conductual del mismo principio matemático.
 
 ---
 

@@ -383,3 +383,4 @@ Zweig (y Graham por extensión) también señalan que para el inversor verdadera
 - [[Margen de Seguridad - Concepto de Graham]]
 - [[ETFs - El arma del inversor defensivo]]
 - [[Jason Zweig - Comentarista]]
+- [[Cap 02 - Por Que Ensenar Educacion Financiera]]

@@ -189,3 +189,5 @@ Kiyosaki menciona a Buffett, Trump (en el contexto inmobiliario), y Peter Lynch 
 - [[El Inversor Inteligente]] — Los primeros pasos de Kiyosaki llevan directamente a los principios de selección de activos de Graham
 - [[El Hombre Más Rico de Babilonia]] — Pagar primero a los activos = la regla del 10% de Arkad
 - [[Hábitos Atómicos]] — Los sistemas de hábitos de Clear son el motor que hace sostenibles los 10 pasos de Kiyosaki
+- [[Cap 2 - El Plan de las 5 Tablillas de Dabasir]]
+- [[Cap 10 - El Inversor y sus Asesores]]

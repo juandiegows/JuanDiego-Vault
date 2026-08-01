@@ -132,3 +132,11 @@ Si lo que buscas es participar activamente en el mercado sin destruir capital:
 3. **Dividendos** → construir una cartera de empresas que paguen dividendos crecientes
 4. **Paper trading** → practicar con dinero ficticio antes de arriesgar capital real
 
+---
+
+## 🔗 Notas Relacionadas
+
+- [[Cap 1 - Invertir en contra de la especulación]]
+- [[Trampas de Mercado]]
+- [[Cap 15 - Nada es Gratis]]
+

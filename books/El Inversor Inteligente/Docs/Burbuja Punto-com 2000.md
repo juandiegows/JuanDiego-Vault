@@ -128,3 +128,12 @@ Algunas de las quiebras más llamativas:
 |Pets.com desaparece|Terra/Luna colapsa a cero|
 
 > La lección no es "nunca inviertas en tecnología o cripto". La lección es: **nunca pagues cualquier precio por cualquier activo**.
+
+---
+
+## 🔗 Notas Relacionadas
+
+- [[Cap 0 El Inversor Inteligente — Introducción]]
+- [[Cap 17 - Cuatro Historias de Casos Instructivos]]
+- [[IPOs - Riesgo para el inversor defensivo]]
+- [[Day Trading - Por qué falla]]

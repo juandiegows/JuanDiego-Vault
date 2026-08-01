@@ -46,3 +46,8 @@ capitulo: 1
 - [ ] ¿Mis ganancias están siendo reinvertidas o consumidas?
 
 [[Cap 2 - El Plan de las 5 Tablillas de Dabasir]]
+
+## 🔗 Notas Relacionadas
+
+- [[Cap 10 - Ahorra Dinero]]
+- [[Cap 07 - Cómo Superar los Obstáculos]]

@@ -110,3 +110,4 @@ convincente parece, y más peligroso resulta.
 - [[Cap 11 - Razonable Mejor que Racional]]
 - [[Cap 13 - Margen de Error]]
 - [[Libros Mencionados y Recomendados - La Psicología del Dinero]]
+- [[Cap 3 El Inversor Inteligente - Un Siglo de historia del mercado financieron|El Inversor Inteligente - Cap 3]]

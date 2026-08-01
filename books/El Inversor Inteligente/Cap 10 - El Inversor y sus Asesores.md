@@ -331,3 +331,4 @@ Para el **inversor defensivo**, Graham recomienda:
 - [[Robo-Advisors - Ventajas y Limitaciones]]
 - [[Psicología del Inversor - Sesgos Cognitivos]]
 - [[Comisiones - El ladrón silencioso]]
+- [[Cap 3 - El relato de los 7 remedios para una bolsa escasa]]

@@ -66,3 +66,13 @@ Zweig aporta una dosis de realidad para el inversor activo de hoy:
 - [ ] **Acción:** ¿Tengo el tiempo para analizar los estados financieros de las empresas antes de comprarlas individualmente?
 
 ---
+
+## 🔗 Notas Relacionadas
+
+- [[Resumen - El Inversor Inteligente]]
+- [[Cap 4 -Estrategia de inversión general - El inversor defensivo.]]
+- [[Cap 6 El Inversor Inteligente - Capítulo 6 (Benjamín Graham)]]
+- [[Cap 7 Inversor Emprededor - aspecto positivos]]
+- [[Cap 15 - Selección de Acciones para el Inversor Agresivo]]
+
+---

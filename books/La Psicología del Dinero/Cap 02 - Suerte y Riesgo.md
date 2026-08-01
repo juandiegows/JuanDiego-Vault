@@ -95,3 +95,4 @@ Consecuencia práctica del capítulo: sé más indulgente al juzgar los fracasos
 - [[Index - La Psicología del Dinero]]
 - [[Cap 01 - Nadie Está Loco]]
 - [[Cap 03 - No Tener Suficiente]]
+- [[Cap 8 - El Inversor y las Fluctuaciones del Mercado|El Inversor Inteligente - Cap 8 (Mr. Market)]]

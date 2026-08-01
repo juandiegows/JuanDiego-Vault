@@ -175,3 +175,12 @@ Los TIPS son el producto de EE.UU. Otros países tienen equivalentes:
 - [ ] Estás próximo a la jubilación y necesitas proteger el poder adquisitivo de tus ingresos fijos
 - [ ] Las tasas reales están en terreno positivo (1%+ real) → precio razonable
 
+---
+
+## 🔗 Notas Relacionadas
+
+- [[Cap 2 - El Inversor y la inflación]]
+- [[Inflación vs Deflación — Riesgos para el Inversor]]
+- [[Retorno Real vs Retorno Nominal]]
+- [[La Gran Inflación de los 70 - EE.UU.]]
+

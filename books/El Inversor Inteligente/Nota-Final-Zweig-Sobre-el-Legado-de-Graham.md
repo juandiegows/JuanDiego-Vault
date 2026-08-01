@@ -152,6 +152,8 @@ El "tipo correcto de persona" es:
 - [[Epílogo — El Caso GEICO]] — La nota final explica *por qué* Graham pudo actuar como actuó con GEICO: carácter, no IQ.
 - [[Psicología del Inversor — Kahneman y Tversky]] — Las investigaciones de behavioral finance que formalizaron lo que Graham intuyó.
 - [[Mr. Market — Capítulo 8]] — La personificación de las trampas conductuales que la nota final describe.
+- [[Cap 03 - Sistemas vs Metas]] — El "framework analítico sólido que no se abandona bajo presión" del Principio 1 de Zweig es exactamente el argumento de Clear: los sistemas ganan porque sobreviven a la falta de motivación; las metas y las corazonadas no.
+- [[Cap 07 - Cómo Superar los Obstáculos]] — Los cinco obstáculos de Kiyosaki (miedo, cinismo, pereza, malos hábitos, arrogancia) son la versión de Padre Rico Padre Pobre de la misma tesis: el comportamiento del inversor, no su cociente intelectual, decide el resultado.
 
 ---
 

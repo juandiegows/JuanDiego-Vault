@@ -91,3 +91,5 @@ el interés compuesto no es intuitivamente atractivo porque no da recompensas in
 - [[Index - La Psicología del Dinero]]
 - [[Cap 03 - No Tener Suficiente]]
 - [[Cap 05 - Hacerse Rico vs. Permanecer Rico]]
+- [[Cap 01 - El Poder de los Hábitos Atómicos]]
+- [[Cap 02 - Por Qué los Pequeños Hábitos Generan Gran Diferencia]]

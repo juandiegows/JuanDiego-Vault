@@ -57,3 +57,12 @@ Graham fue profesor en la Universidad de Columbia. Su alumno más famoso, **Warr
 
 
 #finanzas #inversion #biografia #BenjaminGraham #ValueInvesting #EducacionFinanciera
+
+---
+
+## 🔗 Notas Relacionadas
+
+- [[Cap 0 El Inversor Inteligente — Introducción]]
+- [[Capitulo-20-El-Margen-de-Seguridad]]
+- [[Epilogo-El-Caso-GEICO]]
+- [[Cap 16 - Tú y Yo]]

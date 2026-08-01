@@ -65,3 +65,10 @@ Como Analyst y Software Developer, el **Remedio 7** es tu mayor activo. Mantener
 #crecimiento #finanzas_personales
 
 [[Cap 4 - Las 5 Leyes Inmutables]]
+
+## 🔗 Notas Relacionadas
+
+- [[Cap 10 - Ahorra Dinero]]
+- [[Cap 10 - El Inversor y sus Asesores]]
+- [[Cap 02 - Por Que Ensenar Educacion Financiera]]
+- [[Cap 06 - Trabaja para Aprender, No para Ganar Dinero]]

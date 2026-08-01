@@ -114,3 +114,6 @@ opciones que otros no tienen.
 - [[Cap 11 - Razonable Mejor que Racional]]
 - [[Cap 03 - No Tener Suficiente]]
 - [[Libros Mencionados y Recomendados - La Psicología del Dinero]]
+- [[Cap 2 - El Plan de las 5 Tablillas de Dabasir]]
+- [[Cap 3 - El relato de los 7 remedios para una bolsa escasa]]
+- [[Cap 17 - Cuarta Ley — Hacerlo Satisfactorio]]

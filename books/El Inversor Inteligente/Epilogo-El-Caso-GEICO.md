@@ -124,6 +124,7 @@ Y la nota final casi humorística: los mercados financieros garantizan **emoció
 - [[Capítulo 15 — Selección de Acciones para el Inversor Emprendedor]] — La categoría "empresas grandes impopulares temporalmente" aplica parcialmente a GEICO en 1948.
 - [[Warren Buffett y GEICO]] — Buffett aprendió de Graham sobre GEICO, luego comenzó a comprar acciones él mismo en 1951, y finalmente adquirió la empresa completa via Berkshire en 1996.
 - [[Nota Final — Sobre los Cuatro Principios del Libro]] — El epílogo conecta con la nota final de Zweig como cierre del libro completo.
+- [[Cap 11 Análisis de Valores para el Inversor Lego Enfoque General]] — El caso GEICO es la demostración práctica del "círculo de competencia": Graham entendía el modelo de seguros de bajo coste mejor que el mercado antes de comprar.
 
 ---
 

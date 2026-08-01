@@ -134,3 +134,4 @@ Salario → Impuestos → Hipoteca/Arriendo → Cuotas de auto
 - [[Index - Padre Rico Padre Pobre]]
 - [[Cap 00 - Introducción]]
 - [[Cap 02 - ¿Por Qué Enseñar Educación Financiera?]]
+- [[Cap 07 - Libertad]]

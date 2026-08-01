@@ -69,4 +69,15 @@ En la era moderna, Graham vería los **Fondos Indexados** como la solución perf
 - [ ] **Tarea:** Configurar una transferencia automática mensual a mi cuenta de inversión (DCA).
 
 ---
+
+## 🔗 Notas Relacionadas
+
+- [[Resumen - El Inversor Inteligente]]
+- [[Cap 3 El Inversor Inteligente - Un Siglo de historia del mercado financieron]]
+- [[Cap 5 - el inversor defensivo y las acciones ordinarias]]
+- [[Cap 14 - Selección de Acciones para el Inversor Defensivo]]
+- [[Cap 03 - Sistemas vs Metas]]
+- [[Cap 11 - Razonable Mejor que Racional]]
+
+---
 [[Cap 5 - el inversor defensivo y las acciones ordinarias]]

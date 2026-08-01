@@ -437,3 +437,5 @@ Robert Shiller (Premio Nobel) formalizó matemáticamente la idea de Graham de u
 - [[Dividend Aristocrats y Dividend Kings]]
 - [[Análisis Fundamental - Conceptos Básicos]]
 - [[Jason Zweig - Comentarista]]
+- [[Cap 4 - Las 5 Leyes Inmutables]]
+- [[Cap 16 - Tú y Yo]]

@@ -112,3 +112,4 @@ competencia y otras reglas— que ya no existe.
 - [[Cap 01 - Nadie Está Loco]]
 - [[El Inversor Inteligente - Cap 8]]
 - [[Libros Mencionados y Recomendados - La Psicología del Dinero]]
+- [[Cap 11 Análisis de Valores para el Inversor Lego Enfoque General|El Inversor Inteligente - Fórmula de Graham]]

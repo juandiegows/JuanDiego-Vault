@@ -98,3 +98,4 @@ Riqueza real destruida a cambio de nada
 - [[Cap 07 - Libertad]]
 - [[Cap 09 - La Riqueza es lo que No Ves]]
 - [[Libros Mencionados y Recomendados - La Psicología del Dinero]]
+- [[Cap 02 - Por Que Ensenar Educacion Financiera]]

@@ -81,3 +81,5 @@ Buen comportamiento financiero → Riqueza sostenida en el tiempo
 
 - [[Index - La Psicología del Dinero]]
 - [[Cap 02 - Suerte y Riesgo]]
+- [[Cap 01 - Los Ricos No Trabajan por Dinero]]
+- [[Nota-Final-Zweig-Sobre-el-Legado-de-Graham|El Inversor Inteligente - Nota Final de Zweig]]

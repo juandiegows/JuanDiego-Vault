@@ -83,3 +83,4 @@ es la forma más común de fracasar
 - [[Cap 11 - Razonable Mejor que Racional]]
 - [[Cap 13 - Margen de Error]]
 - [[Resumen - La Psicología del Dinero]]
+- [[Cap 9 Invertir en Fondos de Inversión|El Inversor Inteligente - Fondos de Inversión]]

@@ -132,3 +132,7 @@ El patrón clásico: una persona exitosa en su campo (médico, ingeniero, abogad
 - [[Cap 08 - Primeros Pasos]]
 - [[Hábitos Atómicos]] — Los malos hábitos financieros son exactamente los sistemas que James Clear describe como invisibles pero determinantes
 - [[El Inversor Inteligente]] — Graham también identifica el miedo y la codicia como los principales enemigos del inversor
+- [[Cap 14 - Localizar y Arreglar Causas de Malos Hábitos]]
+- [[Cap 04 - La Historia de los Impuestos y el Poder de las Corporaciones]]
+- [[Cap 05 - Los Ricos Inventan el Dinero]]
+- [[Nota-Final-Zweig-Sobre-el-Legado-de-Graham|El Inversor Inteligente - Nota Final de Zweig]]

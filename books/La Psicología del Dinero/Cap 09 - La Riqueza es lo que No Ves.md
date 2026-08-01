@@ -112,3 +112,4 @@ aún el mejor modelo a copiar.**
 - [[Cap 08 - La Paradoja del Hombre en el Auto]]
 - [[Cap 10 - Ahorra Dinero]]
 - [[Libros Mencionados y Recomendados - La Psicología del Dinero]]
+- [[Cap 02 - Por Que Ensenar Educacion Financiera]]

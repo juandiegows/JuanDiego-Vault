@@ -96,3 +96,11 @@ Zweig escribe regularmente sobre errores comunes de inversores:
 - Por qué seguir a los fondos "ganadores" del año pasado es una trampa
 - Por qué los inversores compran más cuando el mercado está caro y venden cuando está barato
 - Cómo la industria financiera se beneficia de la ignorancia del inversor minorista
+
+---
+
+## 🔗 Notas Relacionadas
+
+- [[Nota-Final-Zweig-Sobre-el-Legado-de-Graham]]
+- [[Cap 0 El Inversor Inteligente — Introducción]]
+- [[Benjamin Graham - Biografía]]

@@ -64,3 +64,8 @@ Estos planes adaptan las leyes antiguas a las diferentes etapas y roles de la vi
 
     
 #finanzas #babilonia #metodo #aprendizaje
+
+## 🔗 Notas Relacionadas
+
+- [[Cap 03 - Ocúpate de Tu Propio Negocio]]
+- [[Cap 03 - Sistemas vs Metas]]

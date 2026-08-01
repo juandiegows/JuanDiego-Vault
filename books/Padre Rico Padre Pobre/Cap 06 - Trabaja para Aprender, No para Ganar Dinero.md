@@ -115,3 +115,5 @@ Kiyosaki describe personas brillantes que se bloquean a sí mismas:
 - [[Cap 05 - Los Ricos Inventan el Dinero]]
 - [[Cap 07 - Cómo Superar los Obstáculos]]
 - [[Hábitos Atómicos]] — La regla de los sistemas aplica aquí: construir un sistema de aprendizaje continuo supera al talento puntual
+- [[Cap 20 - La Verdad Acerca del Talento]]
+- [[Cap 3 - El relato de los 7 remedios para una bolsa escasa]]

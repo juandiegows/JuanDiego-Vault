@@ -360,3 +360,6 @@ EUFORIA (vuelta al ciclo)
 - [[Psicología del Inversor - Sesgos Cognitivos]]
 - [[Jason Zweig - Comentarista]]
 - [[Precio vs Valor - La Distinción Fundamental]]
+- [[Cap 9 Invertir en Fondos de Inversión]]
+- [[Cap 17 - La Seducción del Pesimismo]]
+- [[Cap 15 - Nada es Gratis]]

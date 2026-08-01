@@ -113,3 +113,5 @@ gobierne tu vida actual.
 - [[Cap 15 - Nada es Gratis]]
 - [[Cap 11 - Razonable Mejor que Racional]]
 - [[Libros Mencionados y Recomendados - La Psicología del Dinero]]
+- [[Cap 04 - Identidad — Cómo tus Hábitos te Moldean]]
+- [[Cap 22 - El Inconveniente de Crear Buenos Hábitos]]

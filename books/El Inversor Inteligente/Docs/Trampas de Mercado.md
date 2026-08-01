@@ -33,3 +33,11 @@ Zweig señala que la mayor trampa es el **FOMO** (Fear of Missing Out). Ver a tu
 - #PsicologíaFinanciera #Riesgo #Graham #Burbujas
 
 - [ ] **Acción:** Identificar si alguna de mis inversiones actuales fue comprada por "moda" o recomendación sin análisis.
+
+---
+
+## 🔗 Notas Relacionadas
+
+- [[Cap 6 El Inversor Inteligente - Capítulo 6 (Benjamín Graham)]]
+- [[IPOs - Riesgo para el inversor defensivo]]
+- [[Day Trading - Por qué falla]]

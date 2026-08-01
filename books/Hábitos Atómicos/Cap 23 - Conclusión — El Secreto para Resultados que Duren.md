@@ -68,3 +68,5 @@ Los hábitos atómicos no te cambian en un día. Te cambian en quién eres con e
 - [[Index]]
 - [[Cap 22 - El Inconveniente de Crear Buenos Hábitos]]
 - [[Cap 00 - Introducción — La Historia de James Clear]]
+- [[Cap 03 - Sistemas vs Metas]]
+- [[Cap 05 - Las 4 Leyes del Cambio de Conducta (Intro)]]

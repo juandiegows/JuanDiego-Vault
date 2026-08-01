@@ -106,3 +106,4 @@ ansiedad, no es una buena estrategia por más que los números digan lo contrari
 - [[Cap 12 - ¡Sorpresa!]]
 - [[Cap 01 - Nadie Está Loco]]
 - [[Libros Mencionados y Recomendados - La Psicología del Dinero]]
+- [[Cap 03 - Sistemas vs Metas]]

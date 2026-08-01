@@ -109,3 +109,4 @@ El Padre Rico introduce una distinción fiscal crítica que la mayoría nunca ap
 - [[Cap 04 - La Historia de los Impuestos y el Poder de las Corporaciones]]
 - [[Cap 06 - Trabaja para Aprender, No para Ganar Dinero]]
 - [[El Inversor Inteligente]] — Graham también identifica el bear market como oportunidad para quien tiene framework y capital disponible
+- [[Cap 8 - El Inversor y las Fluctuaciones del Mercado]]

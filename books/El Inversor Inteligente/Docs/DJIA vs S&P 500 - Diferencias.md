@@ -50,5 +50,6 @@ Esta es la diferencia técnica más crítica:
 
 * [[🎯 Estrategias de Inversión Guía Completa]]
 * [[Principales Índices Bursátiles]]
+* [[Cap 1 - Invertir en contra de la especulación]]
 
 #finanzas #trading #inversiones #SP500 #DowJones #EducacionFinanciera

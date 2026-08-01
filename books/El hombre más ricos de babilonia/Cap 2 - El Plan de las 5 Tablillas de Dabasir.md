@@ -81,3 +81,8 @@ Al haber eliminado las deudas, el flujo de efectivo se redirige para fortalecer 
 #finanzas #babilonia #metodo_dabasir
 
 [[Cap 3 - El relato de los 7 remedios para una bolsa escasa]]
+
+## 🔗 Notas Relacionadas
+
+- [[Cap 10 - Ahorra Dinero]]
+- [[Cap 08 - Primeros Pasos]]

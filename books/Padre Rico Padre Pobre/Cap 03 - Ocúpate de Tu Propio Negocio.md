@@ -142,3 +142,5 @@ Quiero un gadget de $500
 - [[Cap 04 - La Historia de los Impuestos y el Poder de las Corporaciones]]
 - [[El Inversor Inteligente]] — La columna de activos de Kiyosaki = la cartera de acciones y bonos de Graham
 - [[Hábitos Atómicos]] — Cap 03 Sistemas vs Metas: construir la columna de activos es un sistema, no una meta
+- [[Cap 03 - Sistemas vs Metas]]
+- [[Cap 5 - Planes Maestros de Acción Financiera]]

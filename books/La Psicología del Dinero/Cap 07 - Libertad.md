@@ -107,3 +107,5 @@ Cada peso ahorrado compra una porción de tu futuro que hoy le pertenece a otra 
 - [[Cap 06 - Colas, Tú Ganas]]
 - [[Cap 08 - La Paradoja del Hombre en el Auto]]
 - [[Libros Mencionados y Recomendados - La Psicología del Dinero]]
+- [[Cap 03 - Ocúpate de Tu Propio Negocio]]
+- [[Cap 01 - Los Ricos No Trabajan por Dinero]]

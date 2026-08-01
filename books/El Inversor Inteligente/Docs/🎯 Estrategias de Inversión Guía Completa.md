@@ -71,6 +71,8 @@ Popularizada por **Benjamin Graham** y **Warren Buffett**.
 * [[Principales Índices Bursátiles]]
 * [[DJIA vs S&P 500 - Diferencias]]
 * [[Psicología del Inversor]]
+* [[Cap 14 - Selección de Acciones para el Inversor Defensivo]]
+* [[Cap 9 Invertir en Fondos de Inversión]]
 
 #finanzas #inversion #estrategia #ValueInvesting #Growth #DCA #ETFs 
 

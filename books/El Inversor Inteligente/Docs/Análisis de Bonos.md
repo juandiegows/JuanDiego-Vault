@@ -35,3 +35,12 @@ Graham advierte que el inversor debe ser tan riguroso con los bonos como con las
 - #Bonos #RentaFija #Graham #Seguridad
 - [[Capitulo 4 - El Inversor Defensivo]]
 - [ ] **Acción:** Verificar que el rendimiento de mis bonos no provenga de emisores con alto riesgo de impago.
+
+---
+
+## 🔗 Notas Relacionadas
+
+- [[Cap 6 El Inversor Inteligente - Capítulo 6 (Benjamín Graham)]]
+- [[Cap 4 -Estrategia de inversión general - El inversor defensivo.]]
+- [[Cap 11 Análisis de Valores para el Inversor Lego Enfoque General]]
+- [[Conceptos Básicos - Renta Fija vs Renta Variable]]

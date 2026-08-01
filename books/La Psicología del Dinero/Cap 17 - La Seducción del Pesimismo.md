@@ -120,3 +120,4 @@ Optimista racional: "Habrá caídas frecuentes Y la tendencia
 - [[Cap 13 - Margen de Error]]
 - [[Cap 04 - El Interés Compuesto que Confunde]]
 - [[Libros Mencionados y Recomendados - La Psicología del Dinero]]
+- [[Cap 8 - El Inversor y las Fluctuaciones del Mercado|El Inversor Inteligente - Cap 8 (Mr. Market)]]

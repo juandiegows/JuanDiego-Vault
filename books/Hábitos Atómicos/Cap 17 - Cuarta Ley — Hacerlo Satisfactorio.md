@@ -66,3 +66,6 @@ La recompensa no debe entrar en conflicto con tu objetivo a largo plazo:
 - [[Index]]
 - [[Cap 16 - Dominio de Hábitos y la Regla de los 2 Minutos]]
 - [[Cap 18 - El Habit Tracker — Nunca Romper la Cadena]]
+- [[Cap 05 - Las 4 Leyes del Cambio de Conducta (Intro)]]
+- [[Cap 04 - Identidad — Cómo tus Hábitos te Moldean]]
+- [[Cap 10 - Ahorra Dinero]]

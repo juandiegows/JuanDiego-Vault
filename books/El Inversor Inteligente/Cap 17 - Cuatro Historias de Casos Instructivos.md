@@ -596,3 +596,5 @@ Antes de invertir en cualquier empresa, pasa por estos filtros:
 - [[IPOs - Riesgo para el Inversor Defensivo]]
 - [[Free Cash Flow - El Árbitro Final]]
 - [[Jason Zweig - Comentarista]]
+- [[Cap 4 - Las 5 Leyes Inmutables]]
+- [[Capitulo-19-Accionistas-y-Administracion]]

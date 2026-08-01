@@ -45,3 +45,4 @@ Pequeñas acciones negativas que parecen inofensivas pueden volverse tóxicas al
 - [[Index]]
 - [[Cap 01 - El Poder de los Hábitos Atómicos]]
 - [[Cap 03 - Sistemas vs Metas]]
+- [[Cap 04 - El Interés Compuesto que Confunde]]

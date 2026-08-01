@@ -54,3 +54,8 @@ El progreso no es una línea recta ascendente — es un proceso de acumulación 
 - [[Index]]
 - [[Cap 02 - Por Qué los Pequeños Hábitos Generan Gran Diferencia]]
 - [[Cap 04 - Identidad — Cómo tus Hábitos te Moldean]]
+- [[Cap 11 - Razonable Mejor que Racional]]
+- [[Cap 03 - Ocúpate de Tu Propio Negocio]]
+- [[Cap 5 - Planes Maestros de Acción Financiera]]
+- [[Resumen - El Inversor Inteligente]]
+- [[Nota-Final-Zweig-Sobre-el-Legado-de-Graham|El Inversor Inteligente - Nota Final de Zweig]]

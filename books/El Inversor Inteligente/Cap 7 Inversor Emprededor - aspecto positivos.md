@@ -57,3 +57,14 @@ Esto significa comprarlas cuando el mercado las ha castigado tanto que su precio
 
 > [!example] **Las "Situaciones Especiales" (Arbitraje)**
 > Además de las empresas de segunda, Graham menciona en este capítulo buscar "situaciones especiales". Fue uno de los pioneros del arbitraje financiero moderno: buscar ganancias matemáticas aseguradas en eventos corporativos como fusiones, adquisiciones o reestructuraciones, donde hay ineficiencias temporales en el precio.
+
+---
+
+## 🔗 Notas Relacionadas
+
+- [[Resumen - El Inversor Inteligente]]
+- [[Cap 6 El Inversor Inteligente - Capítulo 6 (Benjamín Graham)]]
+- [[Cap 8 - El Inversor y las Fluctuaciones del Mercado]]
+- [[Cap 15 - Selección de Acciones para el Inversor Agresivo]]
+- [[Capitulo-20-El-Margen-de-Seguridad]]
+- [[Benjamin Graham - Biografía]]

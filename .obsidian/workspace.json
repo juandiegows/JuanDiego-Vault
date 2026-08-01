@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Ciberseguridad/Hacking Ético y Pentesting/05 - OSINT — Herramientas de Automatización.md",
+                "file": "Courses/Index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05 - OSINT — Herramientas de Automatización"
+              "title": "Index"
             }
           }
         ],
@@ -201,6 +201,9 @@
   },
   "active": "5535bdedc0bc3eb2",
   "lastOpenFiles": [
+    "Courses/Ciberseguridad/Hacking Ético y Pentesting/05 - OSINT — Herramientas de Automatización.md",
+    "books/GEMINI.md",
+    "books/GEMINI.md.tmp.14988.7a2dcb52d096",
     "books/La Psicología del Dinero/Index - La Psicología del Dinero.md.tmp.4012.caa46e8d9ea7",
     "books/La Psicología del Dinero/Index - La Psicología del Dinero.md.tmp.4012.8ff3e60d9e24",
     "books/La Psicología del Dinero/Index - La Psicología del Dinero.md.tmp.4012.2ea07b2957ff",
@@ -218,11 +221,9 @@
     "books/La Psicología del Dinero/Cap 12 - ¡Sorpresa!.md",
     "books/La Psicología del Dinero/Cap 12 - ¡Sorpresa!.md.tmp.4012.cc7e21fcfd72",
     "books/La Psicología del Dinero/Cap 11 - Razonable Mejor que Racional.md",
-    "books/La Psicología del Dinero/Cap 11 - Razonable Mejor que Racional.md.tmp.4012.a8b7ffdd44d5",
     "books/La Psicología del Dinero/Cap 10 - Ahorra Dinero.md",
     "books/La Psicología del Dinero/Cap 09 - La Riqueza es lo que No Ves.md",
     "books/La Psicología del Dinero/Cap 08 - La Paradoja del Hombre en el Auto.md",
-    "books/La Psicología del Dinero/Cap 08 - La Paradoja del Hombre en el Auto.md.tmp.4012.501a93bbd28f",
     "books/La Psicología del Dinero/Cap 07 - Libertad.md",
     "books/La Psicología del Dinero/Cap 06 - Colas, Tú Ganas.md",
     "Courses/Ciberseguridad/Hacking Ético y Pentesting/04 - OSINT — Shodan y Motores de Búsqueda.md",
@@ -236,7 +237,6 @@
     "Courses/Inglés/Inglés Básico A2/03 - Condiciones Climáticas.md",
     "Courses/Inglés/Inglés Básico A2/01 - Conectores y Expresiones Básicas.md",
     "Libros/Padre Rico Padre Pobre/Cap 07 - Cómo Superar los Obstáculos.md",
-    "Libros/El Inversor Inteligente/Nota-Final-Zweig-Sobre-el-Legado-de-Graham.md",
-    "Libros/El Inversor Inteligente/Epilogo-El-Caso-GEICO.md"
+    "Libros/El Inversor Inteligente/Nota-Final-Zweig-Sobre-el-Legado-de-Graham.md"
   ]
 }

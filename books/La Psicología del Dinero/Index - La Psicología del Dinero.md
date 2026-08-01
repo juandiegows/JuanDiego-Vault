@@ -4,7 +4,6 @@ tags:
   - MorganHousel
   - psicologia-del-dinero
   - comportamiento-financiero
-  - resumen-en-progreso
 ---
 
 # 💰 La Psicología del Dinero — Morgan Housel
@@ -12,7 +11,7 @@ tags:
 > *"Hacer que la meta deje de moverse es la habilidad financiera más difícil de todas."*
 > — Morgan Housel
 
-> [!NOTE] Estado: 🔄 En progreso — 17 de 20 capítulos leídos y resumidos.
+> [!NOTE] Estado: ✅ Completo — 20 de 20 capítulos leídos y resumidos.
 
 ---
 
@@ -30,7 +29,6 @@ tags:
 
 ## 🗂️ Índice de Capítulos
 
-### Leídos ✅
 - [[Cap 01 - Nadie Está Loco]]
 - [[Cap 02 - Suerte y Riesgo]]
 - [[Cap 03 - No Tener Suficiente]]
@@ -48,11 +46,9 @@ tags:
 - [[Cap 15 - Nada es Gratis]]
 - [[Cap 16 - Tú y Yo]]
 - [[Cap 17 - La Seducción del Pesimismo]]
-
-### Pendientes ⏳ (títulos orientativos, se ajustan al leer)
-- Cap 18 — Cuando Creerás Cualquier Cosa
-- Cap 19 — Todo Junto
-- Cap 20 — Confesiones
+- [[Cap 18 - Cuando Creerás Cualquier Cosa]]
+- [[Cap 19 - Todo Junto]]
+- [[Cap 20 - Confesiones]]
 
 ### 📖 Notas Transversales
 - [[Libros Mencionados y Recomendados - La Psicología del Dinero]] — bibliografía citada por Housel, autores rastreables y lecturas complementarias
@@ -80,10 +76,13 @@ tags:
 | 15. Nada es Gratis | La volatilidad es la cuota de entrada al rendimiento, no una multa |
 | 16. Tú y Yo | Nunca tomes señales de alguien que juega con otro horizonte temporal |
 | 17. La Seducción del Pesimismo | El pesimismo suena más inteligente porque el desastre es rápido y el progreso lento |
+| 18. Cuando Creerás Cualquier Cosa | Aceptamos historias falsas cuando queremos que sean ciertas, no cuando la evidencia las sostiene |
+| 19. Todo Junto | Los 20 principios del libro condensados en una lista aplicable |
+| 20. Confesiones | Housel muestra sus propias decisiones financieras como ejemplo de psicología personal, no de fórmula óptima |
 
 ---
 
-## 💡 Ideas Más Importantes (hasta el capítulo 17)
+## 💡 Ideas Más Importantes
 
 1. Tu comportamiento con el dinero importa más que tu inteligencia financiera técnica
 2. Sobrevivir financieramente (margen de error, humildad) pesa más que maximizar ganancias
@@ -95,11 +94,15 @@ tags:
 8. Sé razonable antes que racional: una estrategia que puedes sostener 30 años gana siempre
 9. Identifica tu horizonte temporal e ignora las señales de quien juega otro juego
 10. Nunca arriesgues lo que tienes y necesitas por lo que no tienes y no necesitas
+11. Desconfía de cualquier narrativa que te dé certeza total sobre el futuro, sobre todo si quieres que sea cierta
+12. Define tu propio juego financiero (horizonte, metas) y no copies decisiones de quien juega otro
+13. No existe una estrategia financiera "óptima" universal, solo la que puedes sostener sin ansiedad durante décadas
 
 ---
 
 ## 🔗 Notas Relacionadas
 
+- [[Resumen - La Psicología del Dinero]] — síntesis ejecutiva del libro completo con plan de acción
 - [[El Inversor Inteligente - Cap 8]] — el concepto de Mr. Market conecta directo con "Suerte y Riesgo": el mercado premia o castiga sin relación directa con el mérito de la decisión
 - [[Padre Rico Padre Pobre]] — Kiyosaki y Housel coinciden en que la mentalidad pesa más que la técnica, aunque Housel pone más énfasis en el comportamiento que en los activos
 - [[Libros Mencionados y Recomendados - La Psicología del Dinero]] — bibliografía completa citada por Housel y ruta de lectura sugerida

@@ -24,3 +24,9 @@ tags:
 - Único lenguaje que corre en el navegador de forma nativa
 - Full-stack: Frontend (React, Vue) + Backend (Node.js)
 - Base para aprender React, Next.js, TypeScript
+
+---
+
+## 🔗 Notas Relacionadas
+
+- [[React.js/Index|React.js]] — React se construye directamente sobre estos fundamentos (funciones, closures, arrays/objetos); sin ellos, hooks como useState/useEffect no tienen sentido real, solo memorizado.

@@ -54,3 +54,4 @@ Inspirado en el sistema ferroviario japonés (Shinkansen), donde los conductores
 - [[Index]]
 - [[Cap 05 - Las 4 Leyes del Cambio de Conducta (Intro)]]
 - [[Cap 07 - El Registro de Hábitos (Scorecard)]]
+- [[01 - Aprendizaje Pasivo vs Activo]]

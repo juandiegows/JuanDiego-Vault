@@ -59,3 +59,4 @@ El progreso no es una línea recta ascendente — es un proceso de acumulación 
 - [[Cap 5 - Planes Maestros de Acción Financiera]]
 - [[Resumen - El Inversor Inteligente]]
 - [[Nota-Final-Zweig-Sobre-el-Legado-de-Graham|El Inversor Inteligente - Nota Final de Zweig]]
+- [[04 - Resumen Maestro y 10 Reglas de Oro]]

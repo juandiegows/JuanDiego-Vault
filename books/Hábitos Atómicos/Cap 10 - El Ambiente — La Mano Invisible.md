@@ -69,3 +69,4 @@ De los **11 millones** de receptores sensoriales del cuerpo humano, aproximadame
 - [[Index]]
 - [[Cap 09 - Acumulación de Hábitos (Habit Stacking)]]
 - [[Cap 11 - Hacerlo Invisible — El Secreto del Autocontrol]]
+- [[02 - Gestión del Tiempo y Concentración]]

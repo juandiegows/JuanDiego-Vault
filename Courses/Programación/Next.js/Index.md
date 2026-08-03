@@ -29,3 +29,9 @@ tags:
 | API Routes | ✅ Incluido | ❌ Servidor separado |
 | Optimización de imágenes | ✅ next/image | ❌ Manual |
 | SEO | ✅ Mucho mejor | ⚠️ Limitado en CSR |
+
+---
+
+## 🔗 Notas Relacionadas
+
+- [[React.js/Index|React.js]] — Next.js extiende directamente los conceptos core de este curso (componentes, hooks, JSX) con SSR, SSG y App Router; es prerequisito para aprovechar este curso.

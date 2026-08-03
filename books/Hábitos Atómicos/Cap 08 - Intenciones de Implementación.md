@@ -58,6 +58,6 @@ Un estudio con 248 personas reveló que la motivación sola es inútil sin un pl
 
 ## 🔗 Notas Relacionadas
 
-- [[Index]]
+- [[Index - Hábitos Atómicos]]
 - [[Cap 07 - El Registro de Hábitos (Scorecard)]]
 - [[Cap 09 - Acumulación de Hábitos (Habit Stacking)]]

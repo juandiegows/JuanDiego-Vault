@@ -72,7 +72,7 @@ La perfección es imposible. La clave es la **velocidad de recuperación**.
 
 ## 🔗 Notas Relacionadas
 
-- [[Index]]
+- [[Index - Hábitos Atómicos]]
 - [[Cap 17 - Cuarta Ley — Hacerlo Satisfactorio]]
 - [[Cap 19 - El Socio Corresponsable y el Contrato de Hábitos]]
 - [[Cap 04 - Identidad — Cómo tus Hábitos te Moldean]]

@@ -67,6 +67,6 @@ En tus hábitos, tener una mezcla de **éxitos y fracasos manejables** crea el m
 
 ## 🔗 Notas Relacionadas
 
-- [[Index]]
+- [[Index - Hábitos Atómicos]]
 - [[Cap 20 - La Verdad Acerca del Talento]]
 - [[Cap 22 - El Inconveniente de Crear Buenos Hábitos]]

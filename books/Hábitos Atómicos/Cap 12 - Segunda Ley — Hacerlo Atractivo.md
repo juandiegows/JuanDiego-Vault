@@ -60,7 +60,7 @@ Unir una acción que **necesitas** hacer con una que **quieres** hacer:
 
 ## 🔗 Notas Relacionadas
 
-- [[Index]]
+- [[Index - Hábitos Atómicos]]
 - [[Cap 11 - Hacerlo Invisible — El Secreto del Autocontrol]]
 - [[Cap 13 - El Rol de la Familia y los Amigos]]
 - [[Cap 05 - Las 4 Leyes del Cambio de Conducta (Intro)]]

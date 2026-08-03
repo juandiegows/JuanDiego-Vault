@@ -65,7 +65,7 @@ Un hábito no se consolida por el **tiempo** (21 días es un mito), sino por la 
 
 ## 🔗 Notas Relacionadas
 
-- [[Index]]
+- [[Index - Hábitos Atómicos]]
 - [[Cap 14 - Localizar y Arreglar Causas de Malos Hábitos]]
 - [[Cap 16 - Dominio de Hábitos y la Regla de los 2 Minutos]]
 - [[Cap 05 - Las 4 Leyes del Cambio de Conducta (Intro)]]

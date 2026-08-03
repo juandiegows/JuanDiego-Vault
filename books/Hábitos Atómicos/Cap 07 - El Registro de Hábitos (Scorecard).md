@@ -60,6 +60,6 @@ Ese pequeño "break" de conciencia puede romper el impulso automático.
 
 ## 🔗 Notas Relacionadas
 
-- [[Index]]
+- [[Index - Hábitos Atómicos]]
 - [[Cap 06 - La Consciencia — El Despertar del Piloto Automático]]
 - [[Cap 08 - Intenciones de Implementación]]

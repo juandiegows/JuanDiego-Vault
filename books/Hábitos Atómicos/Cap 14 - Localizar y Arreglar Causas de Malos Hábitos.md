@@ -73,7 +73,7 @@ James menciona el libro *Es fácil dejar de fumar si sabes cómo*. La clave es *
 
 ## 🔗 Notas Relacionadas
 
-- [[Index]]
+- [[Index - Hábitos Atómicos]]
 - [[Cap 13 - El Rol de la Familia y los Amigos]]
 - [[Cap 15 - Tercera Ley — Hacerlo Sencillo]]
 - [[Cap 07 - Cómo Superar los Obstáculos]]

@@ -60,6 +60,6 @@ El **"Abismo de Desilusión"**: los resultados no son lineales. El trabajo se "a
 
 ## 🔗 Notas Relacionadas
 
-- [[Index]]
+- [[Index - Hábitos Atómicos]]
 - [[Cap 00 - Introducción — La Historia de James Clear]]
 - [[Cap 02 - Por Qué los Pequeños Hábitos Generan Gran Diferencia]]

@@ -63,7 +63,7 @@ La recompensa no debe entrar en conflicto con tu objetivo a largo plazo:
 
 ## 🔗 Notas Relacionadas
 
-- [[Index]]
+- [[Index - Hábitos Atómicos]]
 - [[Cap 16 - Dominio de Hábitos y la Regla de los 2 Minutos]]
 - [[Cap 18 - El Habit Tracker — Nunca Romper la Cadena]]
 - [[Cap 05 - Las 4 Leyes del Cambio de Conducta (Intro)]]

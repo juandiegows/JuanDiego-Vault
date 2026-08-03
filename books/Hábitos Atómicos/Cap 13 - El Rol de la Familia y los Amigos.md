@@ -62,6 +62,6 @@ Para que un hábito pegue, busca un ambiente social que cumpla dos requisitos:
 
 ## 🔗 Notas Relacionadas
 
-- [[Index]]
+- [[Index - Hábitos Atómicos]]
 - [[Cap 12 - Segunda Ley — Hacerlo Atractivo]]
 - [[Cap 14 - Localizar y Arreglar Causas de Malos Hábitos]]

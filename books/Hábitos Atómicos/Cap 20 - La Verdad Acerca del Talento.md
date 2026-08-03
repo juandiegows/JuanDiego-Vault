@@ -75,7 +75,7 @@ Si no puedes ganar siendo el mejor en un juego existente, **gana siendo diferent
 
 ## 🔗 Notas Relacionadas
 
-- [[Index]]
+- [[Index - Hábitos Atómicos]]
 - [[Cap 19 - El Socio Corresponsable y el Contrato de Hábitos]]
 - [[Cap 21 - La Regla de Ricitos de Oro]]
 - [[Cap 06 - Trabaja para Aprender, No para Ganar Dinero]]

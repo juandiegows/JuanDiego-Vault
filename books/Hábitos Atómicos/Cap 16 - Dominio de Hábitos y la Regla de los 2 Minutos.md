@@ -63,7 +63,7 @@ Como el taxi de Twyla Tharp: una vez que pides el transporte, la parte difícil 
 
 ## 🔗 Notas Relacionadas
 
-- [[Index]]
+- [[Index - Hábitos Atómicos]]
 - [[Cap 15 - Tercera Ley — Hacerlo Sencillo]]
 - [[Cap 17 - Cuarta Ley — Hacerlo Satisfactorio]]
 - [[Cap 04 - Identidad — Cómo tus Hábitos te Moldean]]

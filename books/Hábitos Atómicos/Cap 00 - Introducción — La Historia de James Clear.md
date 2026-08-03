@@ -50,5 +50,5 @@ tags:
 
 ## 🔗 Notas Relacionadas
 
-- [[Index]]
+- [[Index - Hábitos Atómicos]]
 - [[Cap 01 - El Poder de los Hábitos Atómicos]]

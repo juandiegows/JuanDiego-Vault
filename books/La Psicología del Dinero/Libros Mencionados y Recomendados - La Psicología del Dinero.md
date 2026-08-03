@@ -73,7 +73,7 @@ concreto. Su obra principal es la extensión natural del capítulo donde aparece
 - [[Resumen - El Inversor Inteligente]] — Housel **discute a Graham directamente**: rescata el margen de seguridad y el temperamento, y descarta sus fórmulas específicas. Es la conexión más fuerte de todo el libro.
 - [[Index - Padre Rico Padre Pobre]] — coinciden en que la mentalidad pesa más que la técnica, pero divergen en el método: Kiyosaki empuja apalancamiento y activos agresivos, Housel empuja tasa de ahorro y supervivencia ([[Cap 13 - Margen de Error]]).
 - [[Resumen - El hombre más ricos de babilonia]] — la regla de "págate a ti primero" es la versión antigua y narrativa de [[Cap 10 - Ahorra Dinero]]: la tasa de ahorro por encima del rendimiento.
-- [[Hábitos Atómicos/Index|Hábitos Atómicos]] — James Clear y Housel comparten la tesis de fondo: los sistemas sostenibles vencen a las decisiones óptimas puntuales. Es exactamente [[Cap 11 - Razonable Mejor que Racional]] aplicado a conducta en vez de dinero.
+- [[Index - Hábitos Atómicos|Hábitos Atómicos]] — James Clear y Housel comparten la tesis de fondo: los sistemas sostenibles vencen a las decisiones óptimas puntuales. Es exactamente [[Cap 11 - Razonable Mejor que Racional]] aplicado a conducta en vez de dinero.
 
 ---
 

@@ -63,7 +63,7 @@ Para que el cerebro cree la conexión, la frecuencia de la señal debe coincidir
 
 ## 🔗 Notas Relacionadas
 
-- [[Index]]
+- [[Index - Hábitos Atómicos]]
 - [[Cap 08 - Intenciones de Implementación]]
 - [[Cap 10 - El Ambiente — La Mano Invisible]]
 - [[03 - Técnicas de Retención]]

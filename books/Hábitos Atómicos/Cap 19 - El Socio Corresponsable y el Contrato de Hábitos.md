@@ -57,6 +57,6 @@ Nos importa profundamente lo que los demás piensen de nosotros.
 
 ## 🔗 Notas Relacionadas
 
-- [[Index]]
+- [[Index - Hábitos Atómicos]]
 - [[Cap 18 - El Habit Tracker — Nunca Romper la Cadena]]
 - [[Cap 20 - La Verdad Acerca del Talento]]

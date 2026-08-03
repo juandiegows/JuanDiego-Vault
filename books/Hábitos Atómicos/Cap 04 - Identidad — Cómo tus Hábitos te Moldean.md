@@ -58,6 +58,6 @@ Pregúntate: **"¿Quién es la persona que podría lograr lo que quiero?"**
 
 ## 🔗 Notas Relacionadas
 
-- [[Index]]
+- [[Index - Hábitos Atómicos]]
 - [[Cap 03 - Sistemas vs Metas]]
 - [[Cap 05 - Las 4 Leyes del Cambio de Conducta (Intro)]]

@@ -55,7 +55,7 @@ Para eliminar un mal hábito, elimina la señal de tu vista:
 
 ## 🔗 Notas Relacionadas
 
-- [[Index]]
+- [[Index - Hábitos Atómicos]]
 - [[Cap 10 - El Ambiente — La Mano Invisible]]
 - [[Cap 12 - Segunda Ley — Hacerlo Atractivo]]
 - [[Nota-Final-Zweig-Sobre-el-Legado-de-Graham]]

@@ -51,6 +51,6 @@ SEÑAL → ANHELO → RESPUESTA → RECOMPENSA
 
 ## 🔗 Notas Relacionadas
 
-- [[Index]]
+- [[Index - Hábitos Atómicos]]
 - [[Cap 04 - Identidad — Cómo tus Hábitos te Moldean]]
 - [[Cap 06 - La Consciencia — El Despertar del Piloto Automático]]

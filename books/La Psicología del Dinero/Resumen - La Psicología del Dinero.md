@@ -114,7 +114,7 @@ quien construye riqueza sostenible de quien no.
 - [[Resumen - El hombre más ricos de babilonia]] — "págate a ti primero" es la versión
   narrativa antigua de [[Cap 10 - Ahorra Dinero]]: la tasa de ahorro como el único
   control real sobre la riqueza.
-- [[Hábitos Atómicos/Index|Hábitos Atómicos]] — misma tesis en otro dominio: los
+- [[Index - Hábitos Atómicos|Hábitos Atómicos]] — misma tesis en otro dominio: los
   sistemas sostenibles vencen a las decisiones óptimas puntuales, el eje de
   [[Cap 11 - Razonable Mejor que Racional]].
 - [[Libros Mencionados y Recomendados - La Psicología del Dinero]] — bibliografía

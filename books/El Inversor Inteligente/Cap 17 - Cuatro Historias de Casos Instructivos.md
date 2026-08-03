@@ -598,3 +598,4 @@ Antes de invertir en cualquier empresa, pasa por estos filtros:
 - [[Jason Zweig - Comentarista]]
 - [[Cap 4 - Las 5 Leyes Inmutables]]
 - [[Capitulo-19-Accionistas-y-Administracion]]
+- [[Video 12 - Errores que Debes Evitar|Aprende a Invertir en Bolsa - Video 12]]

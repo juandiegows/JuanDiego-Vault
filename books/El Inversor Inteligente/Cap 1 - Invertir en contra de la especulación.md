@@ -306,3 +306,5 @@ Zweig critica el papel de la TV financiera (CNBC, Bloomberg) en alimentar la esp
 - [[DJIA vs S&P 500 - Diferencias]]
 - [[Resumen - El Inversor Inteligente]]
 - [[Cap 0 El Inversor Inteligente — Introducción]]
+- [[Trading/Index|Trading (Curso)]]
+- [[Video 03 - Por Que Invertir en Acciones|Aprende a Invertir en Bolsa - Video 03]]

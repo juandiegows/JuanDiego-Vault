@@ -384,3 +384,4 @@ Zweig (y Graham por extensión) también señalan que para el inversor verdadera
 - [[ETFs - El arma del inversor defensivo]]
 - [[Jason Zweig - Comentarista]]
 - [[Cap 02 - Por Que Ensenar Educacion Financiera]]
+- [[Video 06 - Como Elegir Acciones|Aprende a Invertir en Bolsa - Video 06]]

@@ -139,4 +139,6 @@ Si lo que buscas es participar activamente en el mercado sin destruir capital:
 - [[Cap 1 - Invertir en contra de la especulación]]
 - [[Trampas de Mercado]]
 - [[Cap 15 - Nada es Gratis]]
+- [[Trading/Index|Trading (Curso)]]
+- [[Trading/02 - Análisis Técnico Básico|Trading - 02 Análisis Técnico Básico]]
 

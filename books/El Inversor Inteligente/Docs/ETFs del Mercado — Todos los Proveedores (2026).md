@@ -595,3 +595,4 @@ Los inversores europeos tienen restricciones MiFID II para comprar ETFs de EE.UU
 - [[TIPS - Bonos Indexados a Inflación]]
 - [[Day Trading - Por qué falla]]
 - [[Retorno Real vs Retorno Nominal]]
+- [[Video 08 - Que son los ETFs|Aprende a Invertir en Bolsa - Video 08]]

@@ -167,3 +167,4 @@ Vanguard ha forzado a toda la industria a bajar comisiones. Este efecto se llama
 - [[Vanguard — Lista Completa de ETFs (2026)]]
 - [[Diversificación - El único almuerzo gratis]]
 - [[Benjamin Graham - Biografía]]
+- [[Video 07 - Inversion Pasiva y el SP500|Aprende a Invertir en Bolsa - Video 07]]

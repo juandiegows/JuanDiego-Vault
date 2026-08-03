@@ -363,3 +363,5 @@ EUFORIA (vuelta al ciclo)
 - [[Cap 9 Invertir en Fondos de Inversión]]
 - [[Cap 17 - La Seducción del Pesimismo]]
 - [[Cap 15 - Nada es Gratis]]
+- [[Video 09 - Psicologia del Inversionista|Aprende a Invertir en Bolsa - Video 09]]
+- [[Video 11 - Como Disenar un Plan de Inversiones|Aprende a Invertir en Bolsa - Video 11]]

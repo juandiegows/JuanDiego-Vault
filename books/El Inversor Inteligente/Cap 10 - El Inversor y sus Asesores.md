@@ -19,7 +19,8 @@ tags:
 
 ## 🔑 Idea Central del Capítulo
 
-Graham parte de una premisa incómoda pero necesaria:
+## 🔗 Notas Relacionadas
+- [[Courses/Finanzas/Aprende a Invertir en Bolsa/Video 03 - Por Que Invertir en Acciones|Conexión con conceptos de inversion]]Graham parte de una premisa incómoda pero necesaria:
 
 > _"El inversor que depende enteramente de su asesor y no ejerce ningún juicio propio está en una posición poco envidiable."_
 
@@ -321,6 +322,7 @@ Para el **inversor defensivo**, Graham recomienda:
 ---
 
 ## 🔗 Notas Relacionadas
+- [[Courses/Finanzas/Aprende a Invertir en Bolsa/Video 05 - Como Comprar Acciones|Aprende a Invertir: Segregación de cuentas]]: Recomendación práctica para evitar conflictos de interés.
 
 - [[El Inversor Inteligente - Cap 1]]
 - [[El Inversor Inteligente - Cap 8]]

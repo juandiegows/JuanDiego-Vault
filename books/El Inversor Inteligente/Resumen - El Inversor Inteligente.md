@@ -280,6 +280,9 @@ La inversión más rentable de Graham. En 1948 invirtió el **25% de los activos
 - [[Cap 03 - Sistemas vs Metas]] — "No te elevas al nivel de tus metas, desciendes al nivel de tus sistemas" es literalmente la regla del 50/50 y los 7 criterios de Graham: un sistema mecánico que no requiere fuerza de voluntad diaria, aplicado en [[Cap 4 -Estrategia de inversión general - El inversor defensivo.]].
 - [[Resumen - Padre Rico Padre Pobre]] — Kiyosaki define activo como "todo lo que pone dinero en tu bolsillo"; Graham exige exactamente eso (beneficios reales, dividendos sostenidos, balance sólido) en sus 7 criterios del inversor defensivo. Ambos libros rechazan confundir apariencia de riqueza con activos reales.
 - [[Resumen - La Psicología del Dinero]] — Housel dedica un capítulo entero ([[Cap 13 - Margen de Error]]) a generalizar el margen de seguridad de Graham a toda la vida financiera, y otro ([[Cap 16 - Tú y Yo]]) a explicar por qué las fórmulas exactas de Graham envejecieron mientras sus principios (Mr. Market, margen de seguridad) siguen intactos.
+- [[Educación Financiera/03 - Inversiones Básicas|Educación Financiera - 03 Inversiones Básicas]] — el módulo introduce el espectro riesgo-rendimiento y cita directamente los criterios del inversor defensivo de Graham como su referencia práctica.
+- [[Video 11 - Como Disenar un Plan de Inversiones|Aprende a Invertir en Bolsa - Video 11]] — el "Contrato del Inversor Inteligente" del módulo es una adaptación literal del compromiso escrito que Graham recomienda contra las decisiones emocionales.
+- [[Video 13 - Fin del Curso y Proximos Pasos|Aprende a Invertir en Bolsa - Video 13]] — el curso recomienda este libro como Nivel 3 de su hoja de ruta de lectura tras dominar los fundamentos básicos.
 
 ---
 

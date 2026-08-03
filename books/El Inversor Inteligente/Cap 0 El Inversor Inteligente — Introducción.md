@@ -18,6 +18,9 @@ La inteligencia en inversiones **NO es matemática**. Es **paciencia, disciplina
 
 > [!important] Definición de Graham "Inversor inteligente" = alguien que analiza, protege su capital y **no deja que las emociones tomen sus decisiones**.
 
+## 🔗 Notas Relacionadas
+- [[Courses/Finanzas/Educación Financiera/02 - Deuda Buena vs Deuda Mala|Conexión con análisis de deuda]]
+
 ---
 
 ## 👤 Dos tipos de inversor
@@ -320,6 +323,7 @@ Margen de seg.: Fácil de encontrar Margen de seg.: Difícil, hay que buscar
 _Próximo capítulo →_ [[Cap 1 - Invertir en contra de la especulación]]
 
 ## 🔗 Notas Relacionadas
+- [[Courses/Finanzas/Educación Financiera/01 - Presupuesto y Control del Dinero|Educación Financiera: Presupuesto básico]]: Conexión en gestión de gastos y ahorro inicial (libro menciona 10% ahorro, curso explica presupuesto 70-20-10).
 
 - [[Resumen - El Inversor Inteligente]]
 - [[Cap 8 - El Inversor y las Fluctuaciones del Mercado]]

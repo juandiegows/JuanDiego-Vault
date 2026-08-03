@@ -89,5 +89,10 @@ strength and one area to improve."
 
 ---
 
+## 🔗 Notas Relacionadas
+- [[02 - Prompt Engineering]]
+
+---
+
 ## 🔗 Siguiente
 - [[05 - Mitos y Realidades]]

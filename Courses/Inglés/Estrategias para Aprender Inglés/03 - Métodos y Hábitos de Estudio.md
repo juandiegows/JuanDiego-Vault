@@ -65,5 +65,10 @@ En series/películas, detén la reproducción para repetir la frase exacta del p
 
 ---
 
+## 🔗 Notas Relacionadas
+- [[01 - Aprendizaje Pasivo vs Activo]]
+
+---
+
 ## 🔗 Siguiente
 - [[04 - Práctica con IA — Prompts y Rutinas]]

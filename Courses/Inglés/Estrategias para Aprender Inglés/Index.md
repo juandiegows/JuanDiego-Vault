@@ -36,3 +36,9 @@ tags:
 - IA como práctica sin vergüenza (ChatGPT, Gemini, Claude)
 - Metas SMART con fecha límite
 - Hablar aunque cometas errores
+
+---
+
+## 🔗 Notas Relacionadas
+
+- [[Aprender a Aprender/Index|Aprender a Aprender]] — la misma filosofía de aprendizaje activo (active recall, práctica sobre consumo pasivo) aplicada aquí específicamente al inglés: "vivir en inglés" es inmersión + producción, no solo teoría gramatical.

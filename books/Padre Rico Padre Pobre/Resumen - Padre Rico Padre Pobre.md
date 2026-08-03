@@ -107,6 +107,10 @@ PASIVO  →  saca dinero de tu bolsillo
 - [[Capitulo-20-El-Margen-de-Seguridad]] — el margen de seguridad de Graham es la versión
   cuantitativa de "no inviertas en lo que no conoces", el mismo riesgo que Kiyosaki
   atribuye a la arrogancia como obstáculo financiero.
+- [[02 - Deuda Buena vs Deuda Mala|Educación Financiera - 02 Deuda Buena vs Deuda Mala]] — la
+  distinción deuda buena/mala del curso es una aplicación directa de activo vs. pasivo:
+  la deuda buena financia algo que pone dinero en tu bolsillo, la mala financia algo que
+  lo saca.
 
 ---
 

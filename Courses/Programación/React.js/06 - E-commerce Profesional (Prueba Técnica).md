@@ -86,5 +86,5 @@ export const useShoppingCart = () => useContext(ShoppingCartContext);
 ---
 
 ## 🔗 Volver al Índice
-- [[Index]]
+- [[Courses/Programación/React.js/Index]]
 - [[../../Index|Todos los Cursos]]

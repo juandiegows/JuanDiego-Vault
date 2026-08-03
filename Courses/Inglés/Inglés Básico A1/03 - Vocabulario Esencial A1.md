@@ -79,5 +79,5 @@ tags:
 ---
 
 ## 🔗 Volver al Índice
-- [[Index]]
+- [[Courses/Inglés/Inglés Básico A1/Index]]
 - [[../../Index|Todos los Cursos]]

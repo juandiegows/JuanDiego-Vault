@@ -83,5 +83,5 @@ func main() {
 ---
 
 ## 🔗 Volver al Índice
-- [[Index]]
+- [[Courses/Programación/Go/Index]]
 - [[../../Index|Todos los Cursos]]

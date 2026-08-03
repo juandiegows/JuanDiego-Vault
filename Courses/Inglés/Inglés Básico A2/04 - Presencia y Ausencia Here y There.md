@@ -70,4 +70,4 @@ tags:
 
 | ← Anterior | Inicio | Siguiente → |
 | :---: | :---: | :---: |
-| [[03 - Condiciones Climáticas\|← Clima]] | [[Index\|📋 Index A2]] | — |
+| [[03 - Condiciones Climáticas\|← Clima]] | [[Courses/Inglés/Inglés Básico A2/Index\|📋 Index A2]] | — |

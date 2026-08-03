@@ -70,5 +70,5 @@ Cuerpo: apertura > cierre
 ---
 
 ## 🔗 Volver al Índice
-- [[Index]]
+- [[Courses/Finanzas/Trading/Index]]
 - [[../../Index|Todos los Cursos]]

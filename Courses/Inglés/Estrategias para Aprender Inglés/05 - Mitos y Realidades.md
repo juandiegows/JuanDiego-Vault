@@ -55,5 +55,5 @@ La IA útil para tareas transaccionales, pero no reemplaza el aprendizaje:
 ---
 
 ## 🔗 Volver al Índice
-- [[Index]]
+- [[Courses/Inglés/Estrategias para Aprender Inglés/Index]]
 - [[../../Index|Todos los Cursos]]

@@ -77,4 +77,4 @@ Tres conectores. Una conversación completa. Sin complicaciones.
 
 | ← Anterior | Inicio | Siguiente → |
 | :---: | :---: | :---: |
-| — | [[Index\|📋 Index A2]] | [[02 - Artículos en Inglés\|Artículos →]] |
+| — | [[Courses/Inglés/Inglés Básico A2/Index\|📋 Index A2]] | [[02 - Artículos en Inglés\|Artículos →]] |

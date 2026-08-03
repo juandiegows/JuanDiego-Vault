@@ -86,4 +86,4 @@ tags:
 
 | ← Anterior | Inicio | Siguiente → |
 | :---: | :---: | :---: |
-| [[01 - Conectores y Expresiones Básicas\|← Conectores]] | [[Index\|📋 Index A2]] | [[03 - Condiciones Climáticas\|Clima →]] |
+| [[01 - Conectores y Expresiones Básicas\|← Conectores]] | [[Courses/Inglés/Inglés Básico A2/Index\|📋 Index A2]] | [[03 - Condiciones Climáticas\|Clima →]] |

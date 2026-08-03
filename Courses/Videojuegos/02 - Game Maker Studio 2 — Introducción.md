@@ -79,5 +79,5 @@ y += vsp;
 ---
 
 ## 🔗 Volver al Índice
-- [[Index]]
+- [[Courses/Videojuegos/Index]]
 - [[../Index|Todos los Cursos]]

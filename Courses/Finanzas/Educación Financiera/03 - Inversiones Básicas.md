@@ -54,5 +54,5 @@ Ver notas completas en: [[../../../Libros/El Inversor Inteligente/Index]]
 ---
 
 ## 🔗 Volver al Índice
-- [[Index]]
+- [[Courses/Finanzas/Educación Financiera/Index]]
 - [[../../Index|Todos los Cursos]]

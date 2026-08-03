@@ -98,5 +98,5 @@ problemas de rendimiento y mejores prácticas."
 ---
 
 ## 🔗 Volver al Índice
-- [[Index]]
+- [[Courses/Tecnología/Index]]
 - [[../Index|Todos los Cursos]]

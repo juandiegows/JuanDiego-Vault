@@ -89,5 +89,5 @@ export const metadata = {
 ---
 
 ## 🔗 Volver al Índice
-- [[Index]]
+- [[Courses/Programación/Next.js/Index]]
 - [[../../Index|Todos los Cursos]]

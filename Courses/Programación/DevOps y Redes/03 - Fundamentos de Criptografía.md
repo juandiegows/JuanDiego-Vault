@@ -92,5 +92,5 @@ Cliente          Servidor
 ---
 
 ## 🔗 Volver al Índice
-- [[Index]]
+- [[Courses/Programación/DevOps y Redes/Index]]
 - [[../../Index|Todos los Cursos]]

@@ -81,5 +81,5 @@ fibonacci(8); // 21
 ---
 
 ## 🔗 Volver al Índice
-- [[Index]]
+- [[Courses/Programación/JavaScript/Index]]
 - [[../../Index|Todos los Cursos]]

@@ -92,6 +92,11 @@ problemas de rendimiento y mejores prácticas."
 
 ---
 
+## 🔗 Notas Relacionadas
+- [[04 - Práctica con IA — Prompts y Rutinas]]
+
+---
+
 ## 🔗 Volver al Índice
 - [[Index]]
 - [[../Index|Todos los Cursos]]

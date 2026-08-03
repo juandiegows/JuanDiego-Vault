@@ -17,6 +17,9 @@ tags:
 Estos planes adaptan las leyes antiguas a las diferentes etapas y roles de la vida moderna.
 
 ### 👤 Plan Individual: La Soberanía del Ser
+
+## 🔗 Notas Relacionadas
+- [[Courses/Finanzas/Aprende a Invertir en Bolsa/Video 05 - Como Comprar Acciones|Conexión con seguridad de inversiones]]
 *   **Filosofía:** El individuo es el arquitecto de su propia libertad. No depende del gobierno, del jefe o de la suerte.
 *   **Acción:** La batalla principal es contra el deseo de gratificación instantánea. El 10% se guarda como un acto de respeto propio antes de pagar a cualquier otra persona.
 *   **Objetivo:** Transformar el "alma de esclavo" (que gasta lo que no tiene) en "alma de hombre libre" (que es dueño de su futuro).
@@ -66,6 +69,7 @@ Estos planes adaptan las leyes antiguas a las diferentes etapas y roles de la vi
 #finanzas #babilonia #metodo #aprendizaje
 
 ## 🔗 Notas Relacionadas
+- [[Courses/Finanzas/Aprende a Invertir en Bolsa/Video 03 - Por Que Invertir en Acciones|Aprende a Invertir: Valor del interés compuesto]]: Complementa el enfoque de reinversión total de ganancias.
 
 - [[Cap 03 - Ocúpate de Tu Propio Negocio]]
 - [[Cap 03 - Sistemas vs Metas]]

@@ -95,3 +95,7 @@ La suerte no es azar; es el encuentro entre la preparación y la oportunidad. La
 - [[Capitulo-20-El-Margen-de-Seguridad]] — la Ley IV ("el oro huye del hombre que invierte
   en negocios que no conoce") es la versión antigua del margen de seguridad de Graham:
   no pagar por lo que no puedes evaluar.
+- [[Educación Financiera/Index|Educación Financiera (Curso)]] — la regla 50/30/20 y el
+  fondo de emergencia que enseña el curso son la versión moderna y numérica de la regla
+  70-20-10 de Arkad: mismo principio, "págate primero", con otra proporción.
+- [[Video 02 - Modulo 0 Prerequisitos Antes de Invertir|Aprende a Invertir en Bolsa - Video 02]] — el orden "elimina deuda cara → fondo de emergencia → invierte" es la versión moderna de la regla 70-20-10: primero honor y colchón, después el 10% que trabaja para ti.

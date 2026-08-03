@@ -56,7 +56,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de archivos"
@@ -201,6 +203,11 @@
   },
   "active": "5535bdedc0bc3eb2",
   "lastOpenFiles": [
+    "books/La Psicología del Dinero/Resumen - La Psicología del Dinero.md",
+    "books/Hábitos Atómicos/Index - Hábitos Atómicos.md",
+    "books/El Inversor Inteligente/Index - El Inversor Inteligente.base",
+    "books/El hombre más ricos de babilonia/Index - El hombre más ricos de babilonia.base",
+    "Courses/Index.md",
     "Courses/Ciberseguridad/Hacking Ético y Pentesting/05 - OSINT — Herramientas de Automatización.md",
     "books/GEMINI.md",
     "books/GEMINI.md.tmp.14988.7a2dcb52d096",
@@ -217,9 +224,7 @@
     "books/La Psicología del Dinero/Cap 15 - Nada es Gratis.md.tmp.4012.733d4814aaf7",
     "books/La Psicología del Dinero/Cap 14 - Vas a Cambiar.md",
     "books/La Psicología del Dinero/Cap 13 - Margen de Error.md",
-    "books/La Psicología del Dinero/Cap 13 - Margen de Error.md.tmp.4012.e67c16bbfe96",
     "books/La Psicología del Dinero/Cap 12 - ¡Sorpresa!.md",
-    "books/La Psicología del Dinero/Cap 12 - ¡Sorpresa!.md.tmp.4012.cc7e21fcfd72",
     "books/La Psicología del Dinero/Cap 11 - Razonable Mejor que Racional.md",
     "books/La Psicología del Dinero/Cap 10 - Ahorra Dinero.md",
     "books/La Psicología del Dinero/Cap 09 - La Riqueza es lo que No Ves.md",
@@ -234,9 +239,6 @@
     "Pasted image 20260715101813.png",
     "Courses/Inglés/Inglés Básico A2/02 - Artículos en Inglés.md",
     "Courses/Inglés/Inglés Básico A2/04 - Presencia y Ausencia Here y There.md",
-    "Courses/Inglés/Inglés Básico A2/03 - Condiciones Climáticas.md",
-    "Courses/Inglés/Inglés Básico A2/01 - Conectores y Expresiones Básicas.md",
-    "Libros/Padre Rico Padre Pobre/Cap 07 - Cómo Superar los Obstáculos.md",
-    "Libros/El Inversor Inteligente/Nota-Final-Zweig-Sobre-el-Legado-de-Graham.md"
+    "Courses/Inglés/Inglés Básico A2/03 - Condiciones Climáticas.md"
   ]
 }

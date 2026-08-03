@@ -71,5 +71,10 @@ Asociar conceptos difíciles con imágenes, emociones o historias.
 
 ---
 
+## 🔗 Notas Relacionadas
+- [[Cap 09 - Acumulación de Hábitos (Habit Stacking)]]
+
+---
+
 ## 🔗 Siguiente
 - [[04 - Resumen Maestro y 10 Reglas de Oro]]

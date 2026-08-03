@@ -45,5 +45,11 @@ Requiere esfuerzo cognitivo real.
 
 ---
 
+## 🔗 Notas Relacionadas
+- [[Cap 06 - La Consciencia — El Despertar del Piloto Automático]]
+- [[03 - Métodos y Hábitos de Estudio]]
+
+---
+
 ## 🔗 Siguiente
 - [[02 - Gestión del Tiempo y Concentración]]

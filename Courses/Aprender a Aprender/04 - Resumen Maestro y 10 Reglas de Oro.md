@@ -50,6 +50,11 @@ tags:
 
 ---
 
+## 🔗 Notas Relacionadas
+- [[Cap 03 - Sistemas vs Metas]]
+
+---
+
 ## 🔗 Volver al Índice
 - [[Index]]
 - [[../Index|Todos los Cursos]]

@@ -39,3 +39,10 @@ Cuando el aprendizaje conlleva una **Acción**, la retención de la información
 | **Repetición Espaciada** | Repasar en intervalos de tiempo crecientes |
 | **Deep Work** | Bloques de concentración total sin distracciones |
 | **Mnemotecnia** | Asociar conceptos con emociones o imágenes para memorizar |
+
+---
+
+## 🔗 Notas Relacionadas
+
+- [[Hábitos Atómicos/Index|Hábitos Atómicos]] — las técnicas de este curso (active recall, habit stacking, diseño de ambiente) son la misma lógica de sistemas de James Clear aplicada al estudio: un método sostenible vence a la fuerza de voluntad.
+- [[Estrategias para Aprender Inglés/Index|Estrategias para Aprender Inglés]] — misma filosofía de aprendizaje activo aplicada a un dominio concreto: inmersión y práctica de producción por encima del consumo pasivo.

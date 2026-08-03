@@ -51,5 +51,10 @@ Usa la IA como copiloto para:
 
 ---
 
+## 🔗 Notas Relacionadas
+- [[Cap 10 - El Ambiente — La Mano Invisible]]
+
+---
+
 ## 🔗 Siguiente
 - [[03 - Técnicas de Retención]]

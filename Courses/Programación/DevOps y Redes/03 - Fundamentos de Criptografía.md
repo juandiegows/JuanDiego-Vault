@@ -86,6 +86,11 @@ Cliente          Servidor
 
 ---
 
+## 🔗 Notas Relacionadas
+- [[Hacking Ético y Pentesting/Index|Hacking Ético y Pentesting]]
+
+---
+
 ## 🔗 Volver al Índice
 - [[Index]]
 - [[../../Index|Todos los Cursos]]

@@ -59,5 +59,10 @@ Cuando introduces `platzi.com` en tu navegador:
 
 ---
 
+## 🔗 Notas Relacionadas
+- [[04 - OSINT — Shodan y Motores de Búsqueda]]
+
+---
+
 ## 🔗 Siguiente
 - [[03 - Fundamentos de Criptografía]]

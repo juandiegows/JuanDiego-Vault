@@ -56,5 +56,5 @@ tags:
 ---
 
 ## 🔗 Volver al Índice
-- [[Index]]
+- [[Courses/Aprender a Aprender/Index]]
 - [[../Index|Todos los Cursos]]

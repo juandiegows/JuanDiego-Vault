@@ -119,6 +119,9 @@ quien construye riqueza sostenible de quien no.
   [[Cap 11 - Razonable Mejor que Racional]].
 - [[Libros Mencionados y Recomendados - La Psicología del Dinero]] — bibliografía
   completa citada por Housel a lo largo del libro.
+- [[Video 09 - Psicologia del Inversionista|Aprende a Invertir en Bolsa - Video 09]] — el
+  módulo entero es una aplicación práctica de la tesis del libro: la psicología pesa
+  más que el conocimiento técnico en el resultado del inversionista.
 
 ---
 

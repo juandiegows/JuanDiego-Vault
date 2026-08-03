@@ -93,3 +93,4 @@ el interés compuesto no es intuitivamente atractivo porque no da recompensas in
 - [[Cap 05 - Hacerse Rico vs. Permanecer Rico]]
 - [[Cap 01 - El Poder de los Hábitos Atómicos]]
 - [[Cap 02 - Por Qué los Pequeños Hábitos Generan Gran Diferencia]]
+- [[Video 10 - Cuando Invertir el Mejor Momento|Aprende a Invertir en Bolsa - Video 10]]

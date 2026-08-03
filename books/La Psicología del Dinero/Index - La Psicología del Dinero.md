@@ -108,3 +108,4 @@ tags:
 - [[Libros Mencionados y Recomendados - La Psicología del Dinero]] — bibliografía completa citada por Housel y ruta de lectura sugerida
 - [[Resumen - El hombre más ricos de babilonia]] — "págate a ti primero" es la versión narrativa de [[Cap 10 - Ahorra Dinero]]
 - [[Hábitos Atómicos/Index|Hábitos Atómicos]] — misma tesis en otro dominio: los sistemas sostenibles vencen a las decisiones óptimas puntuales ([[Cap 11 - Razonable Mejor que Racional]])
+- [[Video 13 - Fin del Curso y Proximos Pasos|Aprende a Invertir en Bolsa - Video 13]] — el curso recomienda este libro como primera lectura de su hoja de ruta: el comportamiento antes que la estrategia.

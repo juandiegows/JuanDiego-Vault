@@ -93,3 +93,4 @@ porque:
 - [[Cap 12 - ¡Sorpresa!]]
 - [[Libros Mencionados y Recomendados - La Psicología del Dinero]]
 - [[Cap 17 - Cuatro Historias de Casos Instructivos]]
+- [[Video 12 - Errores que Debes Evitar|Aprende a Invertir en Bolsa - Video 12]]

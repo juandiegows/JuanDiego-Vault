@@ -43,3 +43,10 @@ tags:
 - **Redux / Zustand** — Estado global
 - **React Testing Library** — Tests de componentes
 - **Next.js** — React con SSR y SSG
+
+---
+
+## 🔗 Notas Relacionadas
+
+- [[JavaScript/Index|JavaScript]] — los fundamentos del lenguaje (funciones, scope, arrays/objetos) que hacen legible cualquier componente o hook de este curso.
+- [[Next.js/Index|Next.js]] — Next.js es React con una capa de SSR/SSG y routing por archivos; este curso es el prerequisito directo.

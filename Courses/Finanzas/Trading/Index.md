@@ -34,3 +34,10 @@ tags:
 | Base | Análisis fundamental | Análisis técnico |
 | Riesgo | Controlado | Alto |
 | Tiempo | Pasivo | Activo (horas diarias) |
+
+---
+
+## 🔗 Notas Relacionadas
+
+- [[Day Trading - Por qué falla]] — el respaldo estadístico completo (Barber & Odean, estudio brasileño, ESMA) de la advertencia de este curso: el trading activo pierde contra la inversión pasiva.
+- [[Cap 1 - Invertir en contra de la especulación]] — Graham define aquí formalmente la distinción inversión/especulación que este curso resume en la tabla de arriba.

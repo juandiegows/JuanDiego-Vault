@@ -48,6 +48,11 @@ Ver notas completas en: [[../../../Libros/El Inversor Inteligente/Index]]
 
 ---
 
+## 🔗 Notas Relacionadas
+- [[Resumen - El Inversor Inteligente]]
+
+---
+
 ## 🔗 Volver al Índice
 - [[Index]]
 - [[../../Index|Todos los Cursos]]

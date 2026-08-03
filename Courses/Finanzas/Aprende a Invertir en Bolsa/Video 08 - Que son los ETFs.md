@@ -135,3 +135,4 @@ Acumulador (CSPX):
 - [[Video 10 - Cuando Invertir el Mejor Momento]]
 - [[Video 11 - Como Disenar un Plan de Inversiones]]
 - [[El Pequeno Libro para Invertir con Sentido Comun - John Bogle]]
+- [[ETFs del Mercado — Todos los Proveedores (2026)]]

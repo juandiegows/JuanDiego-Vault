@@ -18,6 +18,9 @@ Para comprar acciones se necesita una cuenta en un broker regulado; no se acude 
 | Bolsa de valores | Mercado regulado donde se compran y venden acciones de empresas publicas | Es el lugar; el inversionista no accede directamente, usa un broker |
 | Broker | Intermediario regulado que ejecuta las ordenes de compra/venta en la bolsa | El acceso del inversionista individual al mercado |
 | Regulacion financiera | Marco legal que supervisa la operacion de brokers y protege los fondos de clientes | La calidad de la regulacion determina que tan seguros estan los fondos |
+
+## 🔗 Notas Relacionadas
+- [[books/El hombre más ricos de babilonia/Cap 5 - Planes Maestros de Acción Financiera|Conexión con planes de inversion]]
 | SIPC | Securities Investor Protection Corporation: seguro gubernamental de EE.UU. que cubre hasta $500,000 | Protege al inversionista si el broker quiebra |
 | Cuenta segregada | Los fondos del cliente se mantienen separados del capital operativo del broker | Si el broker quiebra, los fondos del cliente no se usan para pagar deudas del broker |
 | Cuenta virtual | Cuenta de practica con dinero ficticio para aprender la plataforma sin riesgo | Herramienta de entrenamiento obligatoria antes de invertir dinero real |

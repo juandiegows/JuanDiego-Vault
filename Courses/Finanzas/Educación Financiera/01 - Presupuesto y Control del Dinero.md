@@ -53,5 +53,10 @@ Ejemplo: $600/mes × 6 = $3.600 en fondo de emergencia
 
 ---
 
+## 🔗 Notas Relacionadas
+- [[Resumen - El hombre más ricos de babilonia]]
+
+---
+
 ## 🔗 Siguiente
 - [[02 - Deuda Buena vs Deuda Mala]]

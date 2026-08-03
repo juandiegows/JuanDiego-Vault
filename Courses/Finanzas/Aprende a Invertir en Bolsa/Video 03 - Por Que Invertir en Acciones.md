@@ -18,6 +18,9 @@ El interes compuesto es la fuerza mas poderosa en finanzas personales: $200 mens
 | Interes compuesto | Rendimiento que se acumula sobre el capital mas los rendimientos previos: ganancias generan ganancias | La base matematica de toda inversion a largo plazo |
 | Inflacion | Erosion del poder adquisitivo del dinero con el tiempo, tipicamente 2-3% anual en economias estables | El dinero guardado sin invertir pierde valor real cada ano |
 | Renta fija | Instrumentos que pagan un interes predeterminado: bonos, CDTs, cuentas de ahorro | Retorno predecible pero inferior a acciones historicamente |
+
+## 🔗 Notas Relacionadas
+- [[books/El Inversor Inteligente/Cap 10 - El Inversor y sus Asesores|Análisis de conflictos de interes]]
 | Renta variable | Activos cuyo retorno no esta predeterminado: acciones, ETFs de acciones | Mayor riesgo a corto plazo, mayor retorno a largo plazo |
 | Rendimiento real | Retorno de la inversion descontada la inflacion | Lo que realmente importa: cuanto crece el poder adquisitivo |
 | Liquidez | Facilidad y velocidad de convertir un activo en dinero sin perder valor | Las acciones son altamente liquidas comparadas con inmuebles |
@@ -105,3 +108,4 @@ El dinero en cuenta corriente o bajo el colchon pierde casi la mitad de su valor
 - [[Video 07 - Inversion Pasiva y el SP500]]
 - [[Video 10 - Cuando Invertir el Mejor Momento]]
 - [[El Inversor Inteligente - Benjamin Graham]]
+- [[Cap 1 - Invertir en contra de la especulación]]

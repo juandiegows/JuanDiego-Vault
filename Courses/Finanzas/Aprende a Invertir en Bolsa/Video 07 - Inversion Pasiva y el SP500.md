@@ -141,3 +141,4 @@ Hibrido (recomendado para quien quiere mas):
 - [[Video 11 - Como Disenar un Plan de Inversiones]]
 - [[El Inversor Inteligente - Benjamin Graham]]
 - [[El Pequeno Libro para Invertir con Sentido Comun - John Bogle]]
+- [[Vanguard - Historia del fondo índice]]

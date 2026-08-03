@@ -64,6 +64,11 @@ Cuerpo: apertura > cierre
 
 ---
 
+## 🔗 Notas Relacionadas
+- [[Day Trading - Por qué falla]]
+
+---
+
 ## 🔗 Volver al Índice
 - [[Index]]
 - [[../../Index|Todos los Cursos]]

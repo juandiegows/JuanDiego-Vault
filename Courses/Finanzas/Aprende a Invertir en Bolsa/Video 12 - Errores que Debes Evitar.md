@@ -202,3 +202,5 @@ El foco correcto: maximizar el monto mensual (1er factor).
 - [[Video 13 - Fin del Curso y Proximos Pasos]]
 - [[El Inversor Inteligente - Benjamin Graham]]
 - [[La Psicologia del Dinero - Morgan Housel]]
+- [[Cap 17 - Cuatro Historias de Casos Instructivos]]
+- [[Cap 18 - Cuando Creerás Cualquier Cosa]]

@@ -154,3 +154,5 @@ Alex Hormozi: "La mejor forma de mantenerse pobre es
 - [[El Pequeno Libro para Invertir con Sentido Comun - John Bogle]]
 - [[Un Paso por Delante de Wall Street - Peter Lynch]]
 - [[La Universidad de Berkshire Hataway]]
+- [[Index - La Psicología del Dinero]]
+- [[Resumen - El Inversor Inteligente]]

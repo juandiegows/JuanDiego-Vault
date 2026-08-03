@@ -125,3 +125,4 @@ Expectativa correcta: "compro un buen negocio y en 10 anos
 - [[Video 12 - Errores que Debes Evitar]]
 - [[El Inversor Inteligente - Benjamin Graham]]
 - [[Un Paso por Delante de Wall Street - Peter Lynch]]
+- [[Cap 14 - Selección de Acciones para el Inversor Defensivo]]

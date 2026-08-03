@@ -17,6 +17,9 @@ tags:
 | **Deuda Buena** | Genera un activo o ingreso que supera el costo de la deuda | Hipoteca de inmueble para rentar, préstamo para educación rentable, crédito para negocio |
 | **Deuda Mala** | Financia consumo que pierde valor o no genera ingreso | Tarjeta de crédito por compras de lujo, préstamo para vacaciones, financiar un auto de lujo |
 
+## 🔗 Notas Relacionadas
+- [[books/El Inversor Inteligente/Cap 0 El Inversor Inteligente — Introducción|Análisis de control emocional en inversiones]]
+- [[Resumen - Padre Rico Padre Pobre]]
 ---
 
 ## 📉 El Costo Real de la Deuda

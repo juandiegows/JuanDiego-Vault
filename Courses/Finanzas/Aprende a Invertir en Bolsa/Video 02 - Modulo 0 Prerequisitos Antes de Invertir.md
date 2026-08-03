@@ -86,3 +86,4 @@ Las decisiones financieras se toman con claridad, no bajo presion. Construir las
 - [[Video 03 - Por Que Invertir en Acciones]]
 - [[Video 11 - Como Disenar un Plan de Inversiones]]
 - [[Video 12 - Errores que Debes Evitar]]
+- [[Resumen - El hombre más ricos de babilonia]]

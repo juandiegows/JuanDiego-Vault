@@ -143,3 +143,5 @@ Razon: B compro a todos los precios del camino hacia abajo,
 - [[Video 12 - Errores que Debes Evitar]]
 - [[El Inversor Inteligente - Benjamin Graham]]
 - [[La Psicologia del Dinero - Morgan Housel]]
+- [[Cap 8 - El Inversor y las Fluctuaciones del Mercado]]
+- [[Resumen - La Psicología del Dinero]]

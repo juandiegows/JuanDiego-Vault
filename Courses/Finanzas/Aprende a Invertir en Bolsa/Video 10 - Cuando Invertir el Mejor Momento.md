@@ -173,3 +173,4 @@ Razon: DCA reduce el precio promedio SOLO si el activo eventualmente se recupera
 - [[Video 12 - Errores que Debes Evitar]]
 - [[Video 07 - Inversion Pasiva y el SP500]]
 - [[El Inversor Inteligente - Benjamin Graham]]
+- [[Cap 04 - El Interés Compuesto que Confunde]]

@@ -144,3 +144,5 @@ Sin ese entendimiento profundo, el contrato es solo papel. Con ese entendimiento
 - [[Video 09 - Psicologia del Inversionista]]
 - [[El Inversor Inteligente - Benjamin Graham]]
 - [[La Psicologia del Dinero - Morgan Housel]]
+- [[Resumen - El Inversor Inteligente]]
+- [[Cap 8 - El Inversor y las Fluctuaciones del Mercado]]

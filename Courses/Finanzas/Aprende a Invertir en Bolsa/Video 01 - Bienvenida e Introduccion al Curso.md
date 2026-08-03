@@ -83,3 +83,5 @@ El instructor argumenta que el conocimiento financiero de calidad no deberia cos
 - [[Video 12 - Errores que Debes Evitar]]
 - [[El Inversor Inteligente - Benjamin Graham]]
 - [[La Psicologia del Dinero - Morgan Housel]]
+- [[Resumen - El Inversor Inteligente]]
+- [[Index - La Psicología del Dinero]]
